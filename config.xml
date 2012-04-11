@@ -4,18 +4,17 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>iguide: dublin demo</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		A basic version of iguide with phonegap
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author email="aidan.carroll@gmail.com">
+		Aidan Carroll
 	</author>
 
-	<icon src="icon.png" gap:role="default" />
+	<icon src="resources/icon.png" gap:role="default" />
 
 	<feature name="http://api.phonegap.com/1.0/geolocation"/>
 	<feature name="http://api.phonegap.com/1.0/network"/>
