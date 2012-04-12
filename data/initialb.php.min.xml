@@ -1,0 +1,1169 @@
+<localbuild>
+	<application>
+		<setting id="1" variable="refresh" value="5" />
+		<setting id="2" variable="latestCityNewsText" value="Belfast News" />
+		<setting id="3" variable="moodText" value="I&amp;#39;m in the mood for..." />
+		<setting id="4" variable="detailsButtonText" value="View Details" />
+		<setting id="5" variable="callButtonText" value="Call Now" />
+		<setting id="6" variable="directionsButtonText" value="Get Directions" />
+		<setting id="7" variable="facebookButtonText" value="Post to Facebook" />
+		<setting id="8" variable="addToContactsText" value="Add to Contacts" />
+		<setting id="9" variable="facebookUrl" value="http://m.facebook.com/pages/iGuide-Dublin/101869639852024?rff3fbccd" />
+		<setting id="10" variable="searchText" value="Please enter text for search:" />
+		<setting id="11" variable="maxMapLocations" value="100" />
+		<setting id="12" variable="partnerRefresh" value="5" />
+		<setting id="13" variable="couponText" value="View Discount Coupon" />
+		<setting id="14" variable="couponBG" value="couponBG.jpg" />
+		<setting id="15" variable="emailBodyText" value="Check out this great discount I found on iGuide Belfast" />
+		<setting id="16" variable="eventsText" value="Events" />
+		<setting id="17" variable="otherDestText" value="Other Destinations" />
+		<setting id="18" variable="restaurantCatID" value="11" />
+		<setting id="19" variable="hotelCatID" value="8" />
+		<setting id="20" variable="pushfeedFile" value="http://www.iguidebelfast.com/appsubpages/viewnotifications.php" />
+		<setting id="21" variable="arModeText" value="Augmented Reality Mode" />
+		<setting id="22" variable="notificationsText" value="Notifications" />
+		<setting id="23" variable="travelUpdateText" value="Travel Update" />
+		<setting id="24" variable="busesOptionText" value="Buses" />
+		<setting id="25" variable="allDiscountsText" value="Latest Offers" />
+		<setting id="26" variable="cinemaAndMoreText" value="More..." />
+		<setting id="27" variable="busesOptionUrl" value="http://www.buses.co.uk/travel/live-bus-times.aspx" />
+		<setting id="28" variable="sendToFriendText" value="Send App To A Friend" />
+		<setting id="29" variable="sendFeedbackText" value="Give Us Your Feedback" />
+		<setting id="30" variable="gatwickAirportOptionText" value="Gatwick Airport" />
+		<setting id="31" variable="sendFeedbackUrl" value="http://www.iguidebelfast.com/appsubpages/send-us-your-feedback.php" />
+		<setting id="32" variable="sendAppUrl" value="http://www.iguidebelfast.com/appsubpages/send-app-to-a-friend.php" />
+		<setting id="33" variable="barcodeOptionText" value="QR Barcode Reader" />
+		<setting id="34" variable="sendToFriendEmailBodyText" value="Check out this iPhone application called iGuide Belfast:" />
+		<setting id="35" variable="trainsOptionUrl" value="https://www.translink.co.uk/Buy-Online/NI-Railways-Buy-Online/" />
+		<setting id="36" variable="trainsOptionText" value="Trains" />
+		<setting id="37" variable="sendToFriendEmailBodySubject" value="iGuide Belfast iPhone App" />
+		<setting id="38" variable="facebookBodyText" value="Update from my iGuide Belfast App.." />
+		<setting id="39" variable="gatwickAirportOptionUrl" value="http://www.gatwickairport.com/flights/" />
+		<setting id="40" variable="bookOnlineText" value="Book A ..." />
+		<setting id="41" variable="bookRestaurantUrl" value="http://www.toptable.com/" />
+		<setting id="42" variable="bookHotelUrl" value="http://www.laterooms.com/en/Hotels.aspx?LonLat=&amp;hidfl=&amp;k=Belfast+City&amp;d=20110707&amp;n=1&amp;rt=1-0&amp;distanceUnit=Kilometres&amp;currencies=EUR" />
+		<setting id="43" variable="bookTrainUrl" value="http://www.directrail.com/trains_to_the_brighton_centre.html" />
+		<setting id="44" variable="trafficUpdatesOptionText" value="Traffic Updates" />
+		<setting id="45" variable="trafficUpdatesOptionUrl" value="http://www.journeyon.co.uk/car.asp" />
+		<setting id="46" variable="dailyDealText" value="View Belfast Daily Deal" />
+		<setting id="47" variable="dailyDealUrl" value="http://www.iguidebelfast.com/appsubpages/biddailydeal.php" />
+		<setting id="48" variable="majorAttractionsCatId" value="78" />
+		<setting id="49" variable="arDistanceVal" value="5" />
+		<setting id="50" variable="faresUrl" value="http://www.translink.co.uk/Fares/" />
+		<setting id="51" variable="publicTransText" value="Public Transit" />
+		<setting id="52" variable="timetableUrl" value="http://www.translink.co.uk/Timetables/" />
+		<setting id="53" variable="intnlArrivalsUrl" value="http://www.belfastairport.com/en/flights/?type=arrivals" />
+		<setting id="54" variable="intnlDeparturesUrl" value="http://http://www.belfastairport.com/en/flights/?type=departure" />
+		<setting id="55" variable="cityArrivalsUrl" value="http://www.belfastcityairport.com/Flight-Information/Arrivals.aspx" />
+		<setting id="56" variable="cityDeparturesUrl" value="http://www.belfastcityairport.com/Flight-Information/Departures.aspx" />
+		<setting id="57" variable="airportDeparturesText" value="Airport Departures" />
+		<setting id="58" variable="refreshDataTitle" value="Refresh Data" />
+		<setting id="59" variable="emailPhotoTemplatesTitle" value="Backdrop Yourself!" />
+		<setting id="60" variable="DirectionsTo" value="Directions to" />
+		<setting id="61" variable="Close" value="Close" />
+		<setting id="62" variable="ConfirmClose " value="Confirm Close " />
+		<setting id="63" variable="AreYouSureClose" value="Are you sure you want to close the dialog?" />
+		<setting id="64" variable="Yes" value="Yes" />
+		<setting id="65" variable="No" value="No" />
+		<setting id="66" variable="Cancel" value="Cancel" />
+		<setting id="67" variable="NoCategories" value="No Categories" />
+		<setting id="68" variable="WorkingOffline" value="Working Offline" />
+		<setting id="69" variable="YouMustBeConnectedMap" value="You must be connected to the internet to view map " />
+		<setting id="70" variable="Map" value="Map" />
+		<setting id="71" variable="PleaseChooseNothingToDisplay" value="Please choose one of the following: Nothing to display" />
+		<setting id="72" variable="takePhotoBtnText" value="Take Photo" />
+		<setting id="73" variable="emailPhotoBtnText" value="Email Photo" />
+	</application>
+	<actionlog>
+		<setting actionid="1" tablename="location" id="739" timestamp="2011-10-19 16:47:41" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="2" tablename="deals" id="1" timestamp="2011-10-19 16:48:16" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="3" tablename="slideradvertising" id="1" timestamp="2011-10-19 16:49:14" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="4" tablename="showcasefiles" id="1" timestamp="2011-10-19 16:49:55" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="5" tablename="showcasefiles" id="2" timestamp="2011-10-19 16:49:55" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="6" tablename="showcasefiles" id="3" timestamp="2011-10-19 16:49:55" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="7" tablename="showcasefiles" id="5" timestamp="2011-10-19 16:49:55" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="8" tablename="location" id="143" timestamp="2011-10-19 16:49:55" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="9" tablename="location" id="3296" timestamp="2011-10-27 10:28:15" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="10" tablename="events" id="1" timestamp="2011-10-27 10:28:55" action="INSERT" sby="amax - siteadmin" />
+		<setting actionid="11" tablename="news" id="23" timestamp="2011-10-27 10:29:17" action="INSERT" sby="amax - siteadmin" />
+		<setting actionid="12" tablename="news" id="23" timestamp="2011-10-27 10:29:51" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="13" tablename="news" id="23" timestamp="2011-10-27 10:31:06" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="14" tablename="news" id="23" timestamp="2011-10-27 10:32:03" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="15" tablename="news" id="23" timestamp="2011-10-27 10:32:41" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="16" tablename="news" id="23" timestamp="2011-10-27 10:34:32" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="17" tablename="news" id="23" timestamp="2011-10-27 10:35:38" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="18" tablename="news" id="23" timestamp="2011-10-27 10:36:01" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="19" tablename="news" id="23" timestamp="2011-10-27 10:37:04" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="20" tablename="news" id="23" timestamp="2011-10-27 10:37:40" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="21" tablename="location" id="2889" timestamp="2011-10-27 10:45:09" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="22" tablename="location" id="2889" timestamp="2011-10-27 10:45:45" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="23" tablename="location" id="2889" timestamp="2011-10-27 10:46:18" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="24" tablename="location" id="2889" timestamp="2011-10-27 10:49:30" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="25" tablename="location" id="2889" timestamp="2011-10-27 10:53:32" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="26" tablename="location" id="2889" timestamp="2011-10-27 10:53:43" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="27" tablename="location" id="2889" timestamp="2011-10-27 10:55:24" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="28" tablename="location" id="739" timestamp="2011-11-14 12:33:29" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="29" tablename="location" id="156" timestamp="2011-11-14 13:07:19" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="30" tablename="location" id="739" timestamp="2011-11-14 13:08:15" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="31" tablename="location" id="739" timestamp="2011-11-14 13:09:05" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="32" tablename="location" id="158" timestamp="2011-11-14 13:09:39" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="33" tablename="deallocationspots" id="1" timestamp="2011-11-29 21:06:12" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="34" tablename="deallocationspots" id="2" timestamp="2011-11-29 21:06:12" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="35" tablename="deallocationspots" id="3" timestamp="2011-11-29 21:06:12" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="36" tablename="deallocationspots" id="4" timestamp="2011-11-29 21:06:12" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="37" tablename="reviews" id="2" timestamp="2012-01-05 21:53:14" action="INSERT" sby="" />
+		<setting actionid="38" tablename="reviews" id="3" timestamp="2012-01-05 21:54:08" action="INSERT" sby="" />
+		<setting actionid="39" tablename="reviews" id="4" timestamp="2012-01-05 21:56:07" action="INSERT" sby="" />
+		<setting actionid="40" tablename="reviews" id="5" timestamp="2012-01-05 21:57:50" action="INSERT" sby="" />
+		<setting actionid="41" tablename="reviews" id="6" timestamp="2012-01-05 22:09:03" action="INSERT" sby="" />
+		<setting actionid="42" tablename="reviews" id="7" timestamp="2012-01-05 22:12:14" action="INSERT" sby="" />
+		<setting actionid="43" tablename="reviews" id="8" timestamp="2012-01-05 22:12:56" action="INSERT" sby="" />
+		<setting actionid="44" tablename="reviews" id="9" timestamp="2012-01-05 22:13:25" action="INSERT" sby="" />
+		<setting actionid="45" tablename="reviews" id="10" timestamp="2012-01-05 22:13:42" action="INSERT" sby="" />
+		<setting actionid="46" tablename="reviews" id="11" timestamp="2012-01-05 22:13:53" action="INSERT" sby="" />
+		<setting actionid="47" tablename="reviews" id="12" timestamp="2012-01-05 22:15:18" action="INSERT" sby="" />
+		<setting actionid="48" tablename="reviews" id="13" timestamp="2012-01-05 22:16:12" action="INSERT" sby="" />
+		<setting actionid="49" tablename="deals" id="5" timestamp="2012-01-10 12:49:46" action="INSERT" sby="amax - siteadmin" />
+		<setting actionid="50" tablename="location" id="362" timestamp="2012-01-10 12:52:49" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="51" tablename="location" id="362" timestamp="2012-01-10 15:49:53" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="52" tablename="location" id="0" timestamp="2012-01-10 15:50:15" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="53" tablename="location" id="739" timestamp="2012-01-10 15:52:20" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="54" tablename="showcasefiles" id="6" timestamp="2012-01-10 15:52:59" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="55" tablename="location" id="739" timestamp="2012-01-10 15:52:59" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="56" tablename="location" id="0" timestamp="2012-01-10 15:53:03" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="57" tablename="showcasefiles" id="6" timestamp="2012-01-12 13:55:54" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="58" tablename="location" id="739" timestamp="2012-01-12 13:55:54" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="59" tablename="location" id="0" timestamp="2012-01-12 13:58:07" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="60" tablename="showcasefiles" id="6" timestamp="2012-01-12 13:58:15" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="61" tablename="location" id="739" timestamp="2012-01-12 13:58:15" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="62" tablename="showcasefiles" id="6" timestamp="2012-01-12 13:58:32" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="63" tablename="location" id="739" timestamp="2012-01-12 13:58:32" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="64" tablename="showcasefiles" id="6" timestamp="2012-01-12 13:59:32" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="65" tablename="location" id="739" timestamp="2012-01-12 13:59:32" action="UPDATE" sby="amax - siteadmin" />
+		<setting actionid="66" tablename="location" id="3318" timestamp="2012-01-18 14:27:44" action="INSERT" sby="amax - siteadmin" />
+		<setting actionid="67" tablename="location" id="349" timestamp="2012-01-19 20:17:32" action="UPDATE" sby="amax - siteadmin" />
+	</actionlog>
+	<categories>
+		<category cat_id="1" cat_parent_id="0" cat_name="Theatre" cat_description="Theatre" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="2" cat_parent_id="0" cat_name="Spas And Relaxation" cat_description="Spas And Relaxation" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="3" cat_parent_id="0" cat_name="Attractions" cat_description="Attractions" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="5" cat_parent_id="0" cat_name="Arts, Culture And Museums" cat_description="Arts, Culture And Museums" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="6" cat_parent_id="0" cat_name="Parks And Gardens" cat_description="Parks And Gardens" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="7" cat_parent_id="0" cat_name="Hostels" cat_description="Hostels" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="8" cat_parent_id="0" cat_name="Hotels" cat_description="Hotels" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="9" cat_parent_id="0" cat_name="Nightclubs" cat_description="Nightclubs" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="10" cat_parent_id="0" cat_name="Bars And Pubs" cat_description="Bars And Pubs" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="11" cat_parent_id="0" cat_name="Restaurants" cat_description="Restaurants" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="13" cat_parent_id="0" cat_name="Cinema" cat_description="Cinema" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="14" cat_parent_id="0" cat_name="Concert Venues" cat_description="Concert Venues" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="15" cat_parent_id="0" cat_name="Casinos, Gaming &amp; Clubs" cat_description="Casinos, Gaming &amp; Clubs" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="16" cat_parent_id="0" cat_name="Shopping" cat_description="Shopping" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="18" cat_parent_id="0" cat_name="Buses / Coach Hire" cat_description="Buses / Coach Hire" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="19" cat_parent_id="0" cat_name="Taxis" cat_description="Taxis" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="20" cat_parent_id="0" cat_name="Dentists" cat_description="Dentists" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="21" cat_parent_id="61" cat_name="Insurance" cat_description="Insurance" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="22" cat_parent_id="0" cat_name="Hospitals" cat_description="Hospitals" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="23" cat_parent_id="0" cat_name="Medical" cat_description="Medical" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="24" cat_parent_id="0" cat_name="Castles And Cathedrals" cat_description="Castles And Cathedrals" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="25" cat_parent_id="0" cat_name="Cafe" cat_description="Cafe" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="26" cat_parent_id="0" cat_name="Sports" cat_description="Sports" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="27" cat_parent_id="0" cat_name="Guided Walking Tours" cat_description="Guided Walking Tours" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="28" cat_parent_id="0" cat_name="Tours" cat_description="Tours" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="29" cat_parent_id="0" cat_name="Golf Courses" cat_description="Golf Courses" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="42" cat_parent_id="61" cat_name="Accountants" cat_description="Accountants" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="43" cat_parent_id="61" cat_name="Architects &amp; Construction" cat_description="Architects &amp; Construction" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="44" cat_parent_id="0" cat_name="Banking &amp; Financial" cat_description="Banking &amp; Financial" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="45" cat_parent_id="0" cat_name="Car Parks" cat_description="Car Parks" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="46" cat_parent_id="0" cat_name="Charity &amp; Voluntary Organisations" cat_description="Charity &amp; Voluntary Organisations" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="47" cat_parent_id="0" cat_name="Dry Cleaners &amp; Alterations" cat_description="Dry Cleaners &amp; Alterations" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="48" cat_parent_id="0" cat_name="Education &amp; Library" cat_description="Education &amp; Library" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="49" cat_parent_id="61" cat_name="Estate Agents" cat_description="Estate Agents" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="50" cat_parent_id="0" cat_name="Hair &amp; Beauty" cat_description="Hair &amp; Beauty" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="51" cat_parent_id="0" cat_name="Health &amp; Fitness" cat_description="Health &amp; Fitness" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="52" cat_parent_id="61" cat_name="Legal" cat_description="Legal" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="53" cat_parent_id="0" cat_name="Opticians" cat_description="Opticians" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="54" cat_parent_id="0" cat_name="Pharmacy" cat_description="Pharmacy" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="55" cat_parent_id="0" cat_name="Recruitment Agencies" cat_description="Recruitment Agencies" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="56" cat_parent_id="0" cat_name="Media &amp; Entertainment" cat_description="Media &amp; Entertainment" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="57" cat_parent_id="0" cat_name="Religious" cat_description="Religious" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="58" cat_parent_id="0" cat_name="Shopping Centres" cat_description="Shopping Centres" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="59" cat_parent_id="0" cat_name="Tattoo Studio" cat_description="Tattoo Studio" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="60" cat_parent_id="0" cat_name="Travel Agents" cat_description="Travel Agents" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="61" cat_parent_id="0" cat_name="Business &amp; Professional Services" cat_description="Business &amp; Professional Services" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="62" cat_parent_id="58" cat_name="Ilac Centre" cat_description="Ilac Centre" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="63" cat_parent_id="58" cat_name="Jervis Shopping Centre" cat_description="Jervis Shopping Centre" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="64" cat_parent_id="58" cat_name="Stephen&amp;#39;s Green Centre" cat_description="Stephen&amp;#39;s Green Centre" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="65" cat_parent_id="58" cat_name="Westbury Mall" cat_description="Westbury Mall" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="66" cat_parent_id="58" cat_name="Irish Life Mall" cat_description="Irish Life Mall" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="67" cat_parent_id="58" cat_name="Royal Hibernian Way" cat_description="Royal Hibernian Way" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="68" cat_parent_id="58" cat_name="George&amp;#39;s Street Arcade" cat_description="George&amp;#39;s Street Arcade" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="69" cat_parent_id="58" cat_name="Powerscourt Centre" cat_description="Powerscourt Centre" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="70" cat_parent_id="58" cat_name="GPO Arcade" cat_description="GPO Arcade" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="71" cat_parent_id="16" cat_name="Clothes Shop" cat_description="Clothes Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="72" cat_parent_id="16" cat_name="Accessories Shop" cat_description="Accessories Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="73" cat_parent_id="16" cat_name="Shoe Shop" cat_description="Shoe Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="74" cat_parent_id="16" cat_name="Jewellery Shop" cat_description="Jewellery Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="75" cat_parent_id="16" cat_name="Health Shop" cat_description="Health Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="76" cat_parent_id="16" cat_name="Charity Shop" cat_description="Charity Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="77" cat_parent_id="16" cat_name="Bridal Wear" cat_description="Bridal Wear" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="78" cat_parent_id="16" cat_name="Gift Shop" cat_description="Gift Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="79" cat_parent_id="16" cat_name="Adult Shop" cat_description="Adult Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="80" cat_parent_id="16" cat_name="Bag &amp; Luggage Shop" cat_description="Bag &amp; Luggage Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="81" cat_parent_id="16" cat_name="Antique Shop" cat_description="Antique Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="82" cat_parent_id="16" cat_name="Bargain Shop" cat_description="Bargain Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="83" cat_parent_id="16" cat_name="Bicycle Shop" cat_description="Bicycle Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="84" cat_parent_id="16" cat_name="Homewares" cat_description="Homewares" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="85" cat_parent_id="16" cat_name="Book Shop" cat_description="Book Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="86" cat_parent_id="16" cat_name="Electronics" cat_description="Electronics" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="87" cat_parent_id="16" cat_name="Cobblers And Key Cutting" cat_description="Cobblers And Key Cutting" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="88" cat_parent_id="16" cat_name="Convenience Store" cat_description="Convenience Store" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="89" cat_parent_id="16" cat_name="Butchers" cat_description="Butchers" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="90" cat_parent_id="16" cat_name="Music &amp; DVD Shop" cat_description="Music &amp; DVD Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="91" cat_parent_id="16" cat_name="Musical Instruments" cat_description="Musical Instruments" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="92" cat_parent_id="16" cat_name="Florists" cat_description="Florists" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="93" cat_parent_id="16" cat_name="Supermarket" cat_description="Supermarket" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="94" cat_parent_id="16" cat_name="Food Shop" cat_description="Food Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="95" cat_parent_id="16" cat_name="Games Shop" cat_description="Games Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="96" cat_parent_id="16" cat_name="Furniture Shops" cat_description="Furniture Shops" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="97" cat_parent_id="16" cat_name="Hardware Shops" cat_description="Hardware Shops" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="98" cat_parent_id="16" cat_name="Phone Shop" cat_description="Phone Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="99" cat_parent_id="16" cat_name="Card Shop" cat_description="Card Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="100" cat_parent_id="16" cat_name="Fabric Shop" cat_description="Fabric Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="101" cat_parent_id="16" cat_name="Outdoor Sports &amp; Supplies" cat_description="Outdoor Sports &amp; Supplies" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="102" cat_parent_id="16" cat_name="Sports Shop" cat_description="Sports Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="103" cat_parent_id="16" cat_name="Locksmiths" cat_description="Locksmiths" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="104" cat_parent_id="16" cat_name="Department Store" cat_description="Department Store" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="105" cat_parent_id="16" cat_name="Toy Shop" cat_description="Toy Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="106" cat_parent_id="11" cat_name="General" cat_description="General" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="107" cat_parent_id="11" cat_name="Italian Restaurants" cat_description="Italian Restaurants" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="108" cat_parent_id="11" cat_name="Chinese Restaurants" cat_description="Chinese Restaurants" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="109" cat_parent_id="11" cat_name="Asian Restaurants" cat_description="Asian Restaurants" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="110" cat_parent_id="11" cat_name="Thai Restaurant" cat_description="Thai Restaurant" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="111" cat_parent_id="11" cat_name="Filipino Restaurant" cat_description="Filipino Restaurant" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="112" cat_parent_id="11" cat_name="Vegetarian Restaurant" cat_description="Vegetarian Restaurant" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="113" cat_parent_id="11" cat_name="Moroccan Restaurant" cat_description="Moroccan Restaurant" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="114" cat_parent_id="11" cat_name="Mexican Restaurant" cat_description="Mexican Restaurant" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="115" cat_parent_id="11" cat_name="Japanese Restaurant" cat_description="Japanese Restaurant" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="116" cat_parent_id="11" cat_name="French Restaurant" cat_description="French Restaurant" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="117" cat_parent_id="11" cat_name="Indian Restaurant" cat_description="Indian Restaurant" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="118" cat_parent_id="62" cat_name="Clothes Shop" cat_description="Clothes Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="119" cat_parent_id="62" cat_name="Shoe Shop" cat_description="Shoe Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="120" cat_parent_id="62" cat_name="Pharmacy" cat_description="Pharmacy" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="121" cat_parent_id="62" cat_name="Barber/ Hairdressers" cat_description="Barber/ Hairdressers" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="122" cat_parent_id="62" cat_name="Fortune Teller" cat_description="Fortune Teller" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="123" cat_parent_id="62" cat_name="Cafe" cat_description="Cafe" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="124" cat_parent_id="62" cat_name="Restaurant" cat_description="Restaurant" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="125" cat_parent_id="62" cat_name="Card Shop" cat_description="Card Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="126" cat_parent_id="62" cat_name="Accessories Shop" cat_description="Accessories Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="127" cat_parent_id="62" cat_name="Bargain Shop" cat_description="Bargain Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="128" cat_parent_id="62" cat_name="Department Store" cat_description="Department Store" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="129" cat_parent_id="62" cat_name="Jewellery Shop" cat_description="Jewellery Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="130" cat_parent_id="62" cat_name="Florists" cat_description="Florists" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="131" cat_parent_id="62" cat_name="Gift Shop" cat_description="Gift Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="132" cat_parent_id="62" cat_name="Bag &amp; Luggage Shop" cat_description="Bag &amp; Luggage Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="133" cat_parent_id="62" cat_name="Homewares" cat_description="Homewares" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="134" cat_parent_id="62" cat_name="Phone Shop" cat_description="Phone Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="135" cat_parent_id="62" cat_name="Sports Shop" cat_description="Sports Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="136" cat_parent_id="62" cat_name="Health Shop" cat_description="Health Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="137" cat_parent_id="62" cat_name="Convenience Store" cat_description="Convenience Store" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="138" cat_parent_id="62" cat_name="Cobblers/Key Cutting" cat_description="Cobblers/Key Cutting" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="139" cat_parent_id="62" cat_name="Games Shop" cat_description="Games Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="140" cat_parent_id="62" cat_name="Electronics" cat_description="Electronics" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="141" cat_parent_id="63" cat_name="Barber/ Hairdressers" cat_description="Barber/ Hairdressers" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="142" cat_parent_id="63" cat_name="Cafe" cat_description="Cafe" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="143" cat_parent_id="63" cat_name="Bridal Wear" cat_description="Bridal Wear" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="144" cat_parent_id="63" cat_name="Restaurant" cat_description="Restaurant" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="145" cat_parent_id="63" cat_name="Accessories Shop" cat_description="Accessories Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="146" cat_parent_id="63" cat_name="Clothes Shop" cat_description="Clothes Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="147" cat_parent_id="63" cat_name="Book Shop" cat_description="Book Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="148" cat_parent_id="63" cat_name="Photographers" cat_description="Photographers" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="149" cat_parent_id="63" cat_name="Homewares" cat_description="Homewares" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="150" cat_parent_id="63" cat_name="Computer Shop" cat_description="Computer Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="151" cat_parent_id="63" cat_name="Cake &amp; Sweet Shop" cat_description="Cake &amp; Sweet Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="152" cat_parent_id="63" cat_name="Gift Shop" cat_description="Gift Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="153" cat_parent_id="63" cat_name="Jewellery Shop" cat_description="Jewellery Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="154" cat_parent_id="63" cat_name="Music &amp; DVD Shop" cat_description="Music &amp; DVD Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="155" cat_parent_id="63" cat_name="Beauty Salon" cat_description="Beauty Salon" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="156" cat_parent_id="63" cat_name="Convenience Store" cat_description="Convenience Store" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="157" cat_parent_id="63" cat_name="Pharmacy" cat_description="Pharmacy" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="158" cat_parent_id="63" cat_name="Supermarket" cat_description="Supermarket" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="159" cat_parent_id="63" cat_name="Phone Shop" cat_description="Phone Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="160" cat_parent_id="63" cat_name="Shoe Shop" cat_description="Shoe Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="161" cat_parent_id="63" cat_name="Sports Shop" cat_description="Sports Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="162" cat_parent_id="63" cat_name="Wellbeing Shop" cat_description="Wellbeing Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="163" cat_parent_id="64" cat_name="Barber/ Hairdressers" cat_description="Barber/ Hairdressers" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="164" cat_parent_id="64" cat_name="Cafe" cat_description="Cafe" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="165" cat_parent_id="64" cat_name="Restaurant" cat_description="Restaurant" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="166" cat_parent_id="64" cat_name="Accessories Shop" cat_description="Accessories Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="167" cat_parent_id="64" cat_name="Art Gallery" cat_description="Art Gallery" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="168" cat_parent_id="64" cat_name="Book Shop" cat_description="Book Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="169" cat_parent_id="64" cat_name="Clothes Shop" cat_description="Clothes Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="170" cat_parent_id="64" cat_name="Cobblers And Key Cutting" cat_description="Cobblers And Key Cutting" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="171" cat_parent_id="64" cat_name="Department Store" cat_description="Department Store" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="172" cat_parent_id="64" cat_name="Electronics " cat_description="Electronics " active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="173" cat_parent_id="64" cat_name="Games Shop" cat_description="Games Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="174" cat_parent_id="64" cat_name="Gift Shop" cat_description="Gift Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="175" cat_parent_id="64" cat_name="Card Shop" cat_description="Card Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="176" cat_parent_id="64" cat_name="Jewellery Shop" cat_description="Jewellery Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="177" cat_parent_id="64" cat_name="Pharmacy" cat_description="Pharmacy" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="178" cat_parent_id="64" cat_name="Phone Shop" cat_description="Phone Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="179" cat_parent_id="64" cat_name="Toy Shop" cat_description="Toy Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="180" cat_parent_id="64" cat_name="Tattoo Studio" cat_description="Tattoo Studio" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="181" cat_parent_id="64" cat_name="Homewares" cat_description="Homewares" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="182" cat_parent_id="64" cat_name="Photographers" cat_description="Photographers" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="183" cat_parent_id="64" cat_name="Health Shop" cat_description="Health Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="184" cat_parent_id="65" cat_name="Clothes Shop" cat_description="Clothes Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="185" cat_parent_id="65" cat_name="Jewellery Shop" cat_description="Jewellery Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="186" cat_parent_id="65" cat_name="Art Gallery" cat_description="Art Gallery" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="187" cat_parent_id="65" cat_name="Beauty Salon" cat_description="Beauty Salon" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="188" cat_parent_id="65" cat_name="Cosmetics Shop" cat_description="Cosmetics Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="189" cat_parent_id="66" cat_name="Book Shop" cat_description="Book Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="190" cat_parent_id="66" cat_name="Shoe Shop" cat_description="Shoe Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="191" cat_parent_id="66" cat_name="Cafe" cat_description="Cafe" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="192" cat_parent_id="66" cat_name="Jewellery Shop" cat_description="Jewellery Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="193" cat_parent_id="66" cat_name="Bakery" cat_description="Bakery" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="194" cat_parent_id="67" cat_name="Clothes Shop" cat_description="Clothes Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="195" cat_parent_id="67" cat_name="Cafe" cat_description="Cafe" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="196" cat_parent_id="67" cat_name="Opticians" cat_description="Opticians" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="197" cat_parent_id="67" cat_name="Beauty Salon" cat_description="Beauty Salon" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="198" cat_parent_id="67" cat_name="Shoe Shop" cat_description="Shoe Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="199" cat_parent_id="67" cat_name="Convenience Store" cat_description="Convenience Store" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="200" cat_parent_id="67" cat_name="Cake &amp; Sweet Shop" cat_description="Cake &amp; Sweet Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="201" cat_parent_id="67" cat_name="Jewellery Shop" cat_description="Jewellery Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="202" cat_parent_id="67" cat_name="Public House" cat_description="Public House" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="203" cat_parent_id="68" cat_name="Book Shop" cat_description="Book Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="204" cat_parent_id="68" cat_name="Antique Shop" cat_description="Antique Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="205" cat_parent_id="68" cat_name="Jewellery Shop" cat_description="Jewellery Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="206" cat_parent_id="68" cat_name="Clothes Shop" cat_description="Clothes Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="207" cat_parent_id="68" cat_name="Art Gallery" cat_description="Art Gallery" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="208" cat_parent_id="68" cat_name="Cafe" cat_description="Cafe" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="209" cat_parent_id="68" cat_name="Restaurant" cat_description="Restaurant" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="210" cat_parent_id="68" cat_name="Cosmetics Shop" cat_description="Cosmetics Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="211" cat_parent_id="68" cat_name="Barber/ Hairdressers" cat_description="Barber/ Hairdressers" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="212" cat_parent_id="68" cat_name="Music &amp; DVD Shop" cat_description="Music &amp; DVD Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="213" cat_parent_id="68" cat_name="Fortune Teller" cat_description="Fortune Teller" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="214" cat_parent_id="69" cat_name="Art Gallery" cat_description="Art Gallery" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="215" cat_parent_id="69" cat_name="Restaurant" cat_description="Restaurant" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="216" cat_parent_id="69" cat_name="Accessories Shop" cat_description="Accessories Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="217" cat_parent_id="69" cat_name="Bag &amp; Luggage Shop" cat_description="Bag &amp; Luggage Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="218" cat_parent_id="69" cat_name="Clothes Shop" cat_description="Clothes Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="219" cat_parent_id="69" cat_name="Convenience Store" cat_description="Convenience Store" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="220" cat_parent_id="69" cat_name="Bridal Wear" cat_description="Bridal Wear" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="221" cat_parent_id="69" cat_name="Jewellery Shop" cat_description="Jewellery Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="222" cat_parent_id="69" cat_name="Cafe" cat_description="Cafe" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="223" cat_parent_id="69" cat_name="Public House" cat_description="Public House" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="224" cat_parent_id="69" cat_name="Antique Shop" cat_description="Antique Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="225" cat_parent_id="69" cat_name="Gift Shop" cat_description="Gift Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="226" cat_parent_id="70" cat_name="Phone Shop" cat_description="Phone Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="227" cat_parent_id="70" cat_name="Barber/ Hairdressers" cat_description="Barber/ Hairdressers" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="228" cat_parent_id="70" cat_name="Cafe" cat_description="Cafe" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="229" cat_parent_id="70" cat_name="Opticians" cat_description="Opticians" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="230" cat_parent_id="70" cat_name="Convenience Store" cat_description="Convenience Store" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="231" cat_parent_id="70" cat_name="Health Shop" cat_description="Health Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="232" cat_parent_id="70" cat_name="Charity Shop" cat_description="Charity Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="234" cat_parent_id="16" cat_name="General Retail" cat_description="General Retail" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="235" cat_parent_id="0" cat_name="Government Office &amp; Garda" cat_description="Government Office &amp; Garda" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="236" cat_parent_id="0" cat_name="Post Office" cat_description="Post Office" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="237" cat_parent_id="68" cat_name="Contact Centre Directly" cat_description="Contact Centre Directly" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="238" cat_parent_id="70" cat_name="Contact Centre Directly" cat_description="Contact Centre Directly" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="239" cat_parent_id="62" cat_name="Contact Centre Directly" cat_description="Contact Centre Directly" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="240" cat_parent_id="66" cat_name="Contact Centre Directly" cat_description="Contact Centre Directly" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="241" cat_parent_id="63" cat_name="Contact Centre Directly" cat_description="Contact Centre Directly" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="242" cat_parent_id="69" cat_name="Contact Centre Directly" cat_description="Contact Centre Directly" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="243" cat_parent_id="67" cat_name="Contact Centre Directly" cat_description="Contact Centre Directly" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="244" cat_parent_id="64" cat_name="Contact Centre Directly" cat_description="Contact Centre Directly" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="245" cat_parent_id="65" cat_name="Contact Centre Directly" cat_description="Contact Centre Directly" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="246" cat_parent_id="16" cat_name="Golf Shops" cat_description="Golf Shops" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="247" cat_parent_id="62" cat_name="Supermarket" cat_description="Supermarket" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="248" cat_parent_id="63" cat_name="Opticians" cat_description="Opticians" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="249" cat_parent_id="0" cat_name="Photography" cat_description="Photography" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="250" cat_parent_id="61" cat_name="Logistics" cat_description="Logistics" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="251" cat_parent_id="61" cat_name="IT Services" cat_description="IT Services" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="252" cat_parent_id="61" cat_name="PR &amp; Marketing" cat_description="PR &amp; Marketing" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="253" cat_parent_id="61" cat_name="Property Management" cat_description="Property Management" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="254" cat_parent_id="61" cat_name="Institutes and Representative bodies" cat_description="Institutes and Representative bodies" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="255" cat_parent_id="61" cat_name="Call Centre &amp; Secretarial Services" cat_description="Call Centre &amp; Secretarial Services
+" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="256" cat_parent_id="67" cat_name="Gift Shop" cat_description="Gift Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="257" cat_parent_id="64" cat_name="Shoe Shop" cat_description="Shoe Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="258" cat_parent_id="64" cat_name="Bag &amp; Luggage Shop" cat_description="Bag &amp; Luggage Shop" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+		<category cat_id="259" cat_parent_id="70" cat_name="Outdoor Sports &amp; Supplies" cat_description="Outdoor Sports &amp; Supplies" active="1" cat_imagepanel="" cat_subtitletext="" cat_introcontent="" />
+	</categories>
+	<deallocationspots>
+		<deal dealloc_id="1" dealdescription="Deal Of The Day Main Top Left Section" partnerdiscountid="1" />
+		<deal dealloc_id="2" dealdescription="Latest Offer Middle Section Top 1" partnerdiscountid="2" />
+		<deal dealloc_id="3" dealdescription="Latest Offer Middle Section  Middle 2" partnerdiscountid="3" />
+		<deal dealloc_id="4" dealdescription="Latest Offer Middle Section  Middle 3" partnerdiscountid="4" />
+	</deallocationspots>
+	<deals>
+		<deal id="1" dateStart="2011-10-17" dateEnd="2011-12-30" title="A new space" description="&amp;lt;p&amp;gt;
+	A new space - dont miss it&amp;lt;/p&amp;gt;
+" panelimage="FRONTSLIDERP-1318850063Chrysanthemum.jpg" locationidlink="378" status="1" />
+		<deal id="2" dateStart="2011-10-17" dateEnd="2011-12-28" title="Dance Ireland" description="&amp;lt;p&amp;gt;
+	Dance Ireland is the representative body for professional dance in Ireland. We celebrate, develop and promote the diversity of dance practices in Ireland today by presenting a professional training and development programme and by providing practical supports and services for dance artists. With DanceHouse we provide a working home for dance. We are committed to providing initiatives in Dublin, countrywide and internationally.&amp;nbsp;&amp;lt;/p&amp;gt;
+" panelimage="FRONTSLIDERP-1318850120Penguins.jpg" locationidlink="1200" status="1" />
+		<deal id="3" dateStart="2011-10-17" dateEnd="2012-01-31" title="Glasnevin Museum" description="&amp;lt;p&amp;gt;
+	Glasnevin Museum features a fully interactive exhibition highlighting the history of the Victorian Garden Cemetary and the lives of those buried there.&amp;lt;/p&amp;gt;
+" panelimage="FRONTSLIDERP-1318850161Lighthouse.jpg" locationidlink="378" status="1" />
+		<deal id="4" dateStart="2011-10-17" dateEnd="2011-12-28" title="Dublin Bus" description="&amp;lt;p&amp;gt;
+	A Wide range of tours&amp;lt;/p&amp;gt;
+" panelimage="FRONTSLIDERP-1318850206Tulips.jpg" locationidlink="1814" status="1" />
+		<deal id="5" dateStart="2012-01-09" dateEnd="2012-01-12" title="New Offer" description="&amp;lt;p&amp;gt;
+	This is a new Offer&amp;lt;/p&amp;gt;
+" panelimage="" locationidlink="362" status="1" />
+	</deals>
+	<destinations>
+		<destination id="" title="" url="" active="" />
+		<destination id="" title="" url="" active="" />
+		<destination id="" title="" url="" active="" />
+		<destination id="" title="" url="" active="" />
+		<destination id="" title="" url="" active="" />
+	</destinations>
+	<emailphototemplates>
+		<event id="1" templatename="bathBackdrop" templateimagepath="photo1.png" imageXVal="25" imageYVal="90" imageWidth="90" imageHeight="120" templatelive="1" />
+		<event id="2" templatename="soldierFace" templateimagepath="photo2.png" imageXVal="134" imageYVal="43" imageWidth="70" imageHeight="85" templatelive="1" />
+	</emailphototemplates>
+	<events>
+		<event id="1" date="2011-10-27" dateto="2011-10-31" event="Test event vincent" venue="Test event vincent" times="Test event vincent" duration="" cost="" description="&amp;lt;p&amp;gt;
+	Test event vincent&amp;lt;/p&amp;gt;
+" link="" image="" category="4" sby="amax - siteadmin - 27/10/11 : 10:28:55" status="1" />
+	</events>
+	<eventscategories>
+		<event id="1" eventcattitle="Festivals" status="0" />
+		<event id="2" eventcattitle="Live Music" status="1" />
+		<event id="3" eventcattitle="Theatre, Dance &amp; Classical" status="1" />
+		<event id="4" eventcattitle="Art &amp; Photography" status="1" />
+		<event id="5" eventcattitle="Night Clubs" status="1" />
+		<event id="6" eventcattitle="Childrens" status="1" />
+		<event id="7" eventcattitle="Sports &amp; Outdoors" status="1" />
+		<event id="8" eventcattitle="Food &amp; Drink" status="1" />
+		<event id="9" eventcattitle="Placeholder 9" status="0" />
+		<event id="10" eventcattitle="Placeholder 10" status="0" />
+	</eventscategories>
+	<featuresenabled>
+		<feature featureid="1" featuredescription="PHPLIST" featureenabled="0" orderby="99" />
+		<feature featureid="2" featuredescription="MANAGE-FOOTER" featureenabled="1" orderby="99" />
+		<feature featureid="3" featuredescription="BOOK-A-MENU" featureenabled="1" orderby="5" />
+		<feature featureid="4" featuredescription="AUGMENTED-REALITY-MODE" featureenabled="1" orderby="6" />
+		<feature featureid="5" featuredescription="QR-READER" featureenabled="1" orderby="7" />
+		<feature featureid="6" featuredescription="NOTIFICATIONS" featureenabled="1" orderby="8" />
+		<feature featureid="7" featuredescription="FLURRY" featureenabled="1" orderby="0" />
+		<feature featureid="8" featuredescription="DAILY-DEAL-APP-PAGE" featureenabled="1" orderby="9" />
+		<feature featureid="9" featuredescription="SEND-TO-FRIEND" featureenabled="1" orderby="11" />
+		<feature featureid="10" featuredescription="OTHER-DESTINATIONS" featureenabled="1" orderby="12" />
+		<feature featureid="11" featuredescription="EVENTS" featureenabled="1" orderby="2" />
+		<feature featureid="12" featuredescription="NEWS" featureenabled="1" orderby="3" />
+		<feature featureid="13" featuredescription="LATEST-OFFERS" featureenabled="1" orderby="4" />
+		<feature featureid="14" featuredescription="FLURRY" featureenabled="1" orderby="99" />
+		<feature featureid="15" featuredescription="GIVE-US-FEEDBACK" featureenabled="1" orderby="10" />
+		<feature featureid="16" featuredescription="READ-WRITE-REVIEWS" featureenabled="1" orderby="99" />
+		<feature featureid="17" featuredescription="FRONT-PAGE-CAROUSEL" featureenabled="1" orderby="99" />
+		<feature featureid="18" featuredescription="WEB-DEAL-LOCATIONS" featureenabled="1" orderby="99" />
+		<feature featureid="19" featuredescription="WEB-SLIDER-ADVERTS" featureenabled="1" orderby="99" />
+		<feature featureid="20" featuredescription="SHOWCASE-ENABLED" featureenabled="1" orderby="99" />
+		<feature featureid="21" featuredescription="OFFLINE-CACHE-SETUP" featureenabled="1" orderby="99" />
+		<feature featureid="22" featuredescription="GUIDE-ME-AR" featureenabled="1" orderby="99" />
+		<feature featureid="23" featuredescription="PHOTO-EMAIL-TEMPLATES" featureenabled="1" orderby="99" />
+		<feature featureid="24" featuredescription="LOCALISATION-CMS-ENABLED" featureenabled="1" orderby="99" />
+		<feature featureid="25" featuredescription="MOOD-FOR" featureenabled="1" orderby="1" />
+		<feature featureid="26" featuredescription="REFRESH-DATA" featureenabled="1" orderby="13" />
+	</featuresenabled>
+	<feedback/>
+	<groups>
+		<group groupId="1" groupTitle="Dublin City Bid" active="1" />
+	</groups>
+	<location>
+		<product id="1" catId="234" package="1" title="Cleary And Co department store" cname="Marketing And Sales Manager" address="18-27 Lower O&amp;#39;Connell Street Dublin 1 (North City Centre), North City Centre DUBLIN 1, Co. Dublin, Ireland" county="Dublin" country="Ireland" phone="0035310000000" email="customer.service@clerys.ie" description="Clerys was founded as one of the worlds first purpose built department stores on Dublins main street, OConnell Street, in 1853." webaddress="" panelPlainText="Cleary-And-Co-department-store" panelRight="" latitude="53.351658" longitude="-6.260641" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="&amp;lt;p&amp;gt;
+	Clerys was founded as one of the world&amp;rsquo;s first purpose built department stores on Dublin&amp;rsquo;s main street, O&amp;rsquo;Connell Street, in 1853.&amp;lt;/p&amp;gt;
+" GID="1" lastModified="" />
+		<product id="2" catId="234" package="1" title="Dunnes Stores" cname="Marketing And Sales Manager" address="34 Henry Street 1, Ireland" county="Dublin" country="Ireland" phone="0035310000000" email="service.customer@dunnes-stores.ie" description="Customers can find a comprehensive variety of fashionable clothing for Ladies, Men and Children." webaddress="" panelPlainText="Dunnes-Stores" panelRight="" latitude="53.350151" longitude="-6.262430" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="&amp;lt;p&amp;gt;
+	Customers can find a comprehensive variety of fashionable clothing for Ladies, Men and Children.&amp;lt;/p&amp;gt;
+" GID="1" lastModified="" />
+		<product id="5" catId="234" package="1" title="Pennys" cname="Marketing And Sales Manager" address="47 Mary Street DUBLIN 1, Co. Dublin, Ireland" county="Dublin" country="Ireland" phone="0035310000000" email="admin@iguidedublin.com" description="Look Good, Pay Less" webaddress="" panelPlainText="Pennys" panelRight="" latitude="53.348785" longitude="-6.266757" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="&amp;lt;p&amp;gt;
+	Look Good, Pay Less&amp;lt;/p&amp;gt;
+" GID="1" lastModified="" />
+		<product id="6" catId="71" package="1" title="United Colors of Benetton" cname="Marketing And Sales Manager" address="St. Stephen&amp;#39;s Green West, 2, Co. Dublin County, Ireland" county="Dublin" country="Ireland" phone="0035310000000" email="info@benetton.com" description="United Colors of Benetton has an international style that combines colour, energy and practicality." webaddress="" panelPlainText="United-Colors-of-Benetton" panelRight="" latitude="53.339611" longitude="-6.261070" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="&amp;lt;p&amp;gt;
+	United Colors of Benetton has an international style that combines colour, energy and practicality.&amp;lt;/p&amp;gt;
+" GID="1" lastModified="" />
+		<product id="7" catId="234" package="1" title="Arnotts Plc" cname="Marketing And Sales Manager" address="12 Henry Street, DUBLIN 1, Co. Dublin, Ireland" county="Dublin" country="Ireland" phone="0035318050400" email="info@arnotts.ie" description="The largest department store in the country, With a selling area of more than 300,000 square feet it is ranked in the top five stores in Britain and Ireland." webaddress="" panelPlainText="" panelRight="" latitude="53.349590" longitude="-6.261271" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="&amp;lt;p&amp;gt;
+	The largest department store in the country, With a selling area of more than 300,000 square feet it is ranked in the top five stores in Britain and Ireland.&amp;lt;/p&amp;gt;
+" GID="1" lastModified="" />
+		<product id="8" catId="71" package="1" title="Next" cname="Marketing And Sales Manager" address="68 Grafton Street DUBLIN 2, Ireland" county="Dublin" country="Ireland" phone="0035310000000" email="admin@iguidedublin.com" description="Exciting, beautifully designed, excellent quality clothing and homeware; presented in collections that reflect the aspirations and means of our customers." webaddress="" panelPlainText="Next" panelRight="" latitude="53.341072" longitude="-6.260625" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="&amp;lt;p&amp;gt;
+	Exciting, beautifully designed, excellent quality clothing and homeware; presented in collections that reflect the aspirations and means of our customers.&amp;lt;/p&amp;gt;
+" GID="1" lastModified="" />
+		<product id="10" catId="234" package="1" title="TOPSHOP" cname="Marketing And Sales Manager" address="Jervis Street Dublin 1 (D1) (North City Centre), North City Centre DUBLIN 1, Co. Dublin, Ireland" county="Dublin" country="Ireland" phone="0035318781323" email="customer.service@TOPSHOP.com" description="Topshop blends cutting edge style with purse-friendly prices to bring its fashion savvy customers." webaddress="" panelPlainText="TOPSHOP" panelRight="" latitude="53.348980" longitude="-6.266300" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="&amp;lt;p&amp;gt;
+	Topshop blends cutting edge style with purse-friendly prices to bring its fashion savvy customers.&amp;lt;/p&amp;gt;
+" GID="1" lastModified="" />
+		<product id="11" catId="234" package="1" title="Roches Stores" cname="Marketing And Sales Manager" address="The Ilac Centre, 54-62 Henry Street, Dublin 1, Co. Dublin, Ireland" county="Dublin" country="Ireland" phone="0035318730044" email="admin@iguidedublin.com" description="There are now five fantastic floors offering the latest in fashion and design for women, men and kids in Dublin." webaddress="" panelPlainText="Roches-Stores" panelRight="" latitude="53.349197" longitude="-6.263875" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="&amp;lt;p&amp;gt;
+	There are now five fantastic floors offering the latest in fashion and design for women, men and kids in Dublin.&amp;lt;/p&amp;gt;
+" GID="1" lastModified="" />
+		<product id="12" catId="234" package="1" title="TK Maxx" cname="Marketing And Sales Manager" address="St. Stephen&amp;#39;s Green West, 2, Co. Dublin County, Ireland" county="Dublin" country="Ireland" phone="0035314757080" email="customerservice@tkmaxx.com" description="Prepare for a super stylish break at TK Maxx. " webaddress="" panelPlainText="TK-Maxx" panelRight="" latitude="53.339653" longitude="-6.261070" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="&amp;lt;p&amp;gt;
+	Prepare for a super stylish break at TK Maxx.&amp;lt;/p&amp;gt;
+" GID="1" lastModified="" />
+		<product id="13" catId="11" package="1" title="TGI Fridays" cname="Marketing And Sales Manager" address="St Stephens Green Shopping Centre, 2, Co. Dublin, Ireland" county="Dublin" country="Ireland" phone="0035314781233" email="admin@iguidedublin.com" description="Give me more Fridays!" webaddress="" panelPlainText="TGI-Fridays" panelRight="" latitude="53.344639" longitude="-6.267450" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Give me more Fridays!" GID="1" lastModified="" />
+		<product id="14" catId="11" package="1" title="The Clarence Hotel, Tea Room Restaurant And Octagon Bar" cname="Marketing And Sales Manager" address="6 Wellington Quay, Dublin 2, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035314070800" email="admin@iguidedublin.com" description="Dublins premier boutique hotel located in the heart of the city on the famous River Liffey. Owned by Bono &amp; The Edge of Irish rock group U2." webaddress="" panelPlainText="The-Clarence-Hotel,-Tea-Room-Restaurant-And-Octagon-Bar" panelRight="" latitude="53.345436" longitude="-6.267001" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Dublins premier boutique hotel located in the heart of the city on the famous River Liffey. Owned by Bono &amp; The Edge of Irish rock group U2." GID="1" lastModified="" />
+		<product id="15" catId="11" package="1" title="The Old Mill Restaurant" cname="Marketing And Sales Manager" address="2 Temple Bar, DUBLIN 2, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035316719262" email="lahcenoldmill@eircom.net" description="The place has a homely feeling, like stepping back in time to an old French restaurant - giving good value to the customer." webaddress="" panelPlainText="The-Old-Mill-Restaurant" panelRight="" latitude="53.343777" longitude="-6.269513" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="The place has a homely feeling, like stepping back in time to an old French restaurant - giving good value to the customer." GID="1" lastModified="" />
+		<product id="16" catId="11" package="1" title="101 Talbot Restaurant" cname="Marketing And Sales Manager" address="101 Talbot St, Dublin 1, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035318745011" email="admin@iguidedublin.com" description="The 101 Talbot boasts great food, friendly staff, buzzing atmosphere and full bar licence. The 101 is highly acclaimed and recommended in many guides." webaddress="" panelPlainText="101-Talbot-Restaurant" panelRight="" latitude="53.350220" longitude="-6.257362" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="The 101 Talbot boasts great food, friendly staff, buzzing atmosphere and full bar licence. The 101 is highly acclaimed and recommended in many guides.\r\n" GID="1" lastModified="" />
+		<product id="17" catId="11" package="1" title="Shanahans on the Green" cname="Marketing And Sales Manager" address="119 Saint Stephen&amp;#39;s Green, DUBLIN 2, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035314070939" email="management@Shanahans.ie" description="A place to dine in beautiful classically proportioned rooms." webaddress="" panelPlainText="Shanahans-on-the-Green" panelRight="" latitude="53.338379" longitude="-6.261992" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="A place to dine in beautiful classically proportioned rooms." GID="1" lastModified="" />
+		<product id="18" catId="11" package="1" title="Dandelion Cafe, Bar, Club" cname="Marketing And Sales Manager" address="130 Saint Stephen&amp;#39;s Green, 2, Ireland" county="Dublin" country="Ireland" phone="0035314760870" email="bookings@welovedandelion.com" description="Every day we tune our bar into the mood of the day, our music is handpicked every morning to enhance the setting of the day." webaddress="" panelPlainText="Dandelion-Cafe,-Bar,-Club" panelRight="" latitude="53.339832" longitude="-6.260268" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Every day we tune our bar into the mood of the day, our music is handpicked every morning to enhance the setting of the day." GID="1" lastModified="" />
+		<product id="19" catId="11" package="1" title="The Owl Restaurant" cname="Marketing And Sales Manager" address="109B Pearse Street, DUBLIN 2, Co. Dublin, Ireland" county="Dublin" country="Ireland" phone="0035316772864" email="admin@iguidedublin.com" description="An excellent restaurant to eat in." webaddress="" panelPlainText="The-Owl-Restaurant" panelRight="" latitude="53.343002" longitude="-6.243144" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="An excellent restaurant to eat in." GID="1" lastModified="" />
+		<product id="20" catId="11" package="1" title="Foleys Bar and Restaurant" cname="Marketing And Sales Manager" address="1 Merrion Row, Dublin 2, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035316610115" email="info@foleysbar.com" description="You will find Foley\\\&amp;#39;s located at the corner of Merrion Row / Merrion Street Upper, adjacent to Government Buildings." webaddress="" panelPlainText="Foleys-Bar-and-Restaurant" panelRight="" latitude="53.338318" longitude="-6.254528" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="You will find Foley\\\&amp;#39;s located at the corner of Merrion Row / Merrion Street Upper, adjacent to Government Buildings." GID="1" lastModified="" />
+		<product id="21" catId="11" package="1" title="Chapter One Restaurant" cname="Marketing And Sales Manager" address="19 Parnell Square North, DUBLIN 1, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035318732266" email="info@chapteronerestaurant.com" description="Chapter One is an award winning Michelin star restaurant in Dublin city centre." webaddress="" panelPlainText="Chapter-One-Restaurant" panelRight="" latitude="53.354301" longitude="-6.263884" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Chapter One is an award winning Michelin star restaurant in Dublin city centre." GID="1" lastModified="" />
+		<product id="22" catId="11" package="1" title="Restaurant Patrick Guilbaud" cname="Marketing And Sales Manager" address="21 Upper Merrion Street DUBLIN 2, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035316764192" email="info@restaurantpatrickguilbaud.ie" description="Combining contemporary elegance with an intimate ambiance and unparelled service." webaddress="" panelPlainText="Restaurant-Patrick-Guilbaud" panelRight="" latitude="53.338535" longitude="-6.252916" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Combining contemporary elegance with an intimate ambiance and unparelled service." GID="1" lastModified="" />
+		<product id="23" catId="13" package="1" title="Screen Cinema" cname="Marketing And Sales Manager" address="1 D&amp;#39;olier Street, 2, Ireland" county="Dublin" country="Ireland" phone="0035316725500" email="admin@iguidedublin.com" description="One of the old cinemas in Dublin with a lovely atmosphere." webaddress="" panelPlainText="Screen-Cinema" panelRight="" latitude="53.346710" longitude="-6.258582" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="One of the old cinemas in Dublin with a lovely atmosphere." GID="1" lastModified="" />
+		<product id="24" catId="13" package="1" title="Irish Film Centre" cname="Marketing And Sales Manager" address="6 Eustace Street, DUBLIN 2, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035316795744" email="info@irishfilm.ie" description="Irish Film Centre" webaddress="" panelPlainText="Irish-Film-Centre" panelRight="" latitude="53.344578" longitude="-6.264853" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Irish Film Centre" GID="1" lastModified="" />
+		<product id="25" catId="13" package="1" title="Light House Cinema" cname="Marketing And Sales Manager" address="Smithfield Market, Smithfield, Dublin 7, Ireland" county="Dublin" country="Ireland" phone="0035318797601" email="info@lighthousecinema.ie" description="The Light House Cinema at Smithfield is a four-screen, 600-seat commercially operated cultural cinema which presents a diverse and individual programme of the best Irish, independent, foreign-language, arthouse and classic cinema." webaddress="" panelPlainText="Light-House-Cinema" panelRight="" latitude="53.348072" longitude="-6.273369" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="The Light House Cinema at Smithfield is a four-screen, 600-seat commercially operated cultural cinema which presents a diverse and individual programme of the best Irish, independent, foreign-language, arthouse and classic cinema." GID="1" lastModified="" />
+		<product id="26" catId="13" package="3" title="Cineworld" cname="Marketing And Sales Manager" address="Parnell Street Dublin 1 D1, North City Centre, DUBLIN 1, Co. Dublin, Ireland" county="Dublin" country="Ireland" phone="0035310000000" email="admin@iguidedublin.com" description="Cineworld is now one of the leading cinema groups in the UK." webaddress="" panelPlainText="Cineworld" panelRight="" latitude="53.350269" longitude="-6.267417" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="WEBHEADER-1289342327header.jpg" webfooter="WEBFOOTER-1289342328footer.jpg" webcontent="&amp;lt;p&amp;gt;
+	Cineworld is now one of the leading cinema groups in the UK.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	&amp;lt;strong&amp;gt;Adult (after 5pm Mon-Fri, all day Sat-Sun) &amp;euro;10.70	Adult (before 5pm Mon-Fri) &amp;euro;8.50	Child (14 &amp;amp; Under) &amp;euro;6.70	Senior &amp;euro;7.50	Student (after 5pm Mon-Fri, all day Sat-Sun) &amp;euro;8.60	Student (before 5pm Mon-Fri) &amp;euro;7.10	Family (after 5pm Mon-Fri, all day Sat-Sun) &amp;euro;30.00	Family (before 5pm Mon-Fri) &amp;euro;26.40	Early Bird (before 12 noon) &amp;euro;6.50	Movies for Juniors (Sat am) &amp;euro;2.00	Weekend prices apply to Bank Holidays	Adult &amp;ndash; additional &amp;euro;2.10 for 3D films	Child/Student/Senior/Unlimited/Unlimited &amp;ndash; an additional &amp;euro;1.50 for 3D films	Family Ticket &amp;ndash; an additional &amp;euro;6.00 per family ticket for 3D films	3D Glasses 80c per pair&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+" GID="1" lastModified="" />
+		<product id="27" catId="13" package="1" title="Savoy Dublin" cname="Marketing And Sales Manager" address="Upper OConnell Street, Dublin 1" county="Dublin" country="Ireland" phone="0035318746000" email="admin@iguidedublin.com" description="Boasting the latest in projection and digital sound technology, Omniplex Cinemas have become the standard bearer for multiplex facilities." webaddress="" panelPlainText="Savoy-Dublin" panelRight="" latitude="53.351307" longitude="-6.260740" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="&amp;lt;p&amp;gt;
+	Boasting the latest in projection and digital sound technology, Omniplex Cinemas have become the standard bearer for multiplex facilities.&amp;lt;/p&amp;gt;
+" GID="1" lastModified="" />
+		<product id="28" catId="13" package="1" title="UCI Cinema" cname="Marketing And Sales Manager" address="84 Malahide Road DUBLIN 3, Ireland" county="Dublin" country="Ireland" phone="0035318485133" email="admin@iguidedublin.com" description="UCI Cinemas in Dublin currently serve over 2 million Guests per year who enjoy the thrill and excitement of Cinema which includes a fantastic range of premium food (including BUTTER FLAVOURED POPCORN!!) and drinks to enjoy during your selected Film. " webaddress="" panelPlainText="UCI-Cinema" panelRight="" latitude="53.368214" longitude="-6.226673" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="UCI Cinemas in Dublin currently serve over 2 million Guests per year who enjoy the thrill and excitement of Cinema which includes a fantastic range of premium food (including BUTTER FLAVOURED POPCORN!!) and drinks to enjoy during your selected Film. " GID="1" lastModified="" />
+		<product id="29" catId="13" package="1" title="Vue Cinema" cname="Marketing And Sales Manager" address="Liffey Valley Shopping Centre, Fonthill Road, Dublin 22" county="Dublin" country="Ireland" phone="0035310000000" email="admin@iguidedublin.com" description="Located in The Liffey Valley Shopping Centre on Fonthill Rd, Vue Dublin is a 14 screen cinema with approximately 3,804 seats." webaddress="" panelPlainText="Vue-Cinema" panelRight="" latitude="53.315647" longitude="-6.438376" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Located in The Liffey Valley Shopping Centre on Fonthill Rd, Vue Dublin is a 14 screen cinema with approximately 3,804 seats." GID="1" lastModified="" />
+		<product id="30" catId="13" package="1" title="IMC" cname="Marketing And Sales Manager" address="Dun Laoghaire Bloomfield&amp;#39;s Shopping Centre, Lower Georges St, Dun Laoghaire" county="Dublin" country="Ireland" phone="0035310000000" email="admin@iguidedublin.com" description="The IMC is Dun Laoghaire&amp;#39;s premiere cinema complex, and features the very latest in projection, 3D and sound technology, the first cinema in Ireland to be spread over 3 floors, it features 12 screens and interconnecting escalators reaching all levels." webaddress="" panelPlainText="IMC" panelRight="" latitude="53.292938" longitude="-6.138464" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="WEBHEADER-1289345849imc-footer.jpg" webfooter="WEBFOOTER-1289345849imc-header.jpg" webcontent="&amp;lt;p&amp;gt;
+	The IMC is Dun Laoghaire&amp;#39;s premiere cinema complex, and features the very latest in projection, 3D and sound technology, the first cinema in Ireland to be spread over 3 floors, it features 12 screens and interconnecting escalators reaching all levels.&amp;lt;/p&amp;gt;
+" GID="1" lastModified="" />
+		<product id="31" catId="13" package="1" title="Movies at Dundrum" cname="Marketing And Sales Manager" address="Dundrum Town Centre, DUBLIN 14, Ireland" county="Dublin" country="Ireland" phone="0035312916802" email="Movies@Dundrum LTD" description="We are very accessible from the Luas and the Dublin Bus service." webaddress="" panelPlainText="Movies-at-Dundrum" panelRight="" latitude="53.289200" longitude="-6.243670" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="We are very accessible from the Luas and the Dublin Bus service." GID="1" lastModified="" />
+		<product id="32" catId="13" package="1" title="UCI Blanchardstown" cname="Marketing And Sales Manager" address="Blanchardstown Shopping Centre Blanchardstown Road South Dublin 15" county="Dublin" country="Ireland" phone="0035310000000" email="admin@iguidedublin.com" description="Each UCI Cinema offers an additional range of Premier Seating which can gaurentee you the best seats in the house for your additional comfort." webaddress="" panelPlainText="UCI-Blanchardstown" panelRight="" latitude="53.374165" longitude="-6.362740" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Each UCI Cinema offers an additional range of Premier Seating which can gaurentee you the best seats in the house for your additional comfort." GID="1" lastModified="" />
+		<product id="33" catId="14" package="1" title="Vicar Street" cname="Marketing And Sales Manager" address="58 Thomas Street, DUBLIN 2, Ireland" county="Dublin" country="Ireland" phone="0035314545533" email="admin@iguidedublin.com" description="Dublin venue Vicar Street topped the Awards, scooping three gongs: Best National Live Music Venue of the Year and Best Dublin Live Music Venue of the Year, along with a Hot Press Readers Award for Best Live Music Venue in Ireland." webaddress="" panelPlainText="Vicar-Street" panelRight="" latitude="53.342770" longitude="-6.277721" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Dublin venue Vicar Street topped the Awards, scooping three gongs: Best National Live Music Venue of the Year and Best Dublin Live Music Venue of the Year, along with a Hot Press Readers Award for Best Live Music Venue in Ireland." GID="1" lastModified="" />
+		<product id="34" catId="14" package="1" title="The Wright Venue" cname="Marketing And Sales Manager" address="South Quarter, Airside Retail Park, Swords, Co. Dublin, Ireland" county="Dublin" country="Ireland" phone="0035318900099" email="info@thewrightvenue.ie" description="The Wright Venue is one of those places that invites superlatives. It\&amp;#39;s been designed on a jaw-dropping-ly large scale, incorporating a substantial main club, a terrace bar, a members-only âpenthouse clubâ, the laid-back and mature âpurple roomâ with 70s and 80s vibes, plus âthe citiesâ â luxurious private hire booths with plasma screens, gaming consoles and pre-stocked fridges. In other words, the people behind the Wright Venue havenât just attempted to match the âsuperclubsâ" webaddress="" panelPlainText="" panelRight="" latitude="53.446259" longitude="-6.224320" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="With the spirit of a nightclub and the energy of a live music venue this room is a haven for music &amp; dance." GID="1" lastModified="" />
+		<product id="35" catId="14" package="1" title="Tommy Leddy Theatre" cname="Marketing And Sales Manager" address="Matthew&amp;#39;s Lane, Drogheda, Co. Louth, Ireland" county="Dublin" country="Ireland" phone="0035310000000" email="info@thetlt.ie" description="Droghedas first purpose-built theatre and concert venue" webaddress="" panelPlainText="Tommy-Leddy-Theatre" panelRight="" latitude="53.701969" longitude="-6.371809" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="&amp;lt;p&amp;gt;
+	Drogheda&amp;#39;s first purpose-built theatre and concert venue&amp;lt;/p&amp;gt;
+" GID="1" lastModified="" />
+		<product id="36" catId="14" package="1" title="Olympia Theatre" cname="Marketing And Sales Manager" address="72 Dame Street, Dublin 2, Ireland" county="Dublin" country="Ireland" phone="0035316793323" email="admin@iguidedublin.com" description="One of Dublins most famous venues, the Olympia is as versed at hosting rock concerts as it is to hosting dramatic works of the finest quality." webaddress="" panelPlainText="Olympia-Theatre" panelRight="" latitude="53.344196" longitude="-6.266078" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="One of Dublins most famous venues, the Olympia is as versed at hosting rock concerts as it is to hosting dramatic works of the finest quality." GID="1" lastModified="" />
+		<product id="37" catId="14" package="1" title="The O2" cname="Marketing And Sales Manager" address="North Wall Quay, Dublin 1, North City Centre, DUBLIN 1, Co. Dublin, Ireland" county="Dublin" country="Ireland" phone="0035318198888" email="admin@iguidedublin.com" description="A stunning, new, state-of-the-art entertainment venue, with the kind of world-class acoustics that great music deserves." webaddress="" panelPlainText="The-O2" panelRight="" latitude="53.344269" longitude="-6.267470" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="A stunning, new, state-of-the-art entertainment venue, with the kind of world-class acoustics that great music deserves." GID="1" lastModified="" />
+		<product id="38" catId="14" package="1" title="National Concert Hall" cname="Marketing And Sales Manager" address="2 Earlsfort Terrace, DUBLIN 2, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035314170077" email="admin@iguidedublin.com" description="The National Concert Hall is rated by performing artists as one of the finest concert halls in Europe and attracts over 320,000 concert-goers a year." webaddress="" panelPlainText="National-Concert-Hall" panelRight="" latitude="53.334064" longitude="-6.258688" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="The National Concert Hall is rated by performing artists as one of the finest concert halls in Europe and attracts over 320,000 concert-goers a year." GID="1" lastModified="" />
+		<product id="39" catId="14" package="1" title="Abbey Theatre" cname="Marketing And Sales Manager" address="26 Lower Abbey Street, DUBLIN 1, Co. Dublin, Ireland" county="Dublin" country="Ireland" phone="0035318748389" email="info@abbeytheatre.ie" description="The Abbey Theatre is the national theatre of Ireland." webaddress="" panelPlainText="Abbey-Theatre" panelRight="" latitude="53.348747" longitude="-6.257231" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="The Abbey Theatre is the national theatre of Ireland." GID="1" lastModified="" />
+		<product id="40" catId="14" package="3" title="RDS Concert Hall" cname="Marketing And Sales Manager" address="RDS, Ballsbridge, Dublin 4, Ballsbridge, DUBLIN 4, Co. Dublin, Ireland" county="Dublin" country="Ireland" phone="0035316680866" email="info@rds.ie" description="Founded in 1731, the Royal Dublin Society continues to fulfil its commitment to promote excellence, encourage development and advance awareness within each of its Foundation activities. " webaddress="" panelPlainText="Rds-Concert-Hall" panelRight="PHONEPANEL_1278929451.jpg" latitude="53.313946" longitude="-6.230756" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="WEBHEADER_1278929217.jpg" webfooter="WEBFOOTER_1278929324.jpg" webcontent="&amp;lt;p&amp;gt;
+	Founded in 1731, the Royal Dublin Society continues to fulfil its commitment to promote excellence, encourage development and advance awareness within each of its Foundation activities.		&amp;lt;a href=&amp;quot;http://www.rds.ie/index.jsp?p=100&amp;amp;n=101&amp;quot;&amp;gt;Click here for a full listing of events&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+" GID="1" lastModified="" />
+		<product id="41" catId="14" package="1" title="Gaiety Theatre" cname="Marketing And Sales Manager" address="King Street South, DUBLIN 2, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035316795622" email="boxoffice@gaietytheatre.com" description="For 138 years The Gaiety Theatre has given the people of Dublin opera, musicals, drama, revues, comedy, concerts, dance, festivals and pantomime." webaddress="" panelPlainText="Gaiety-Theatre" panelRight="" latitude="53.340240" longitude="-6.261846" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="For 138 years The Gaiety Theatre has given the people of Dublin opera, musicals, drama, revues, comedy, concerts, dance, festivals and pantomime." GID="1" lastModified="" />
+		<product id="42" catId="14" package="1" title="Croke Park Stadium" cname="Marketing And Sales Manager" address="Jones road, DUBLIN 3, Ireland" county="Dublin" country="Ireland" phone="0035318192300" email="info@crokepark.ie" description="Croke Park has been at the heart of Irish sporting life for over a hundred years." webaddress="" panelPlainText="Croke-Park-Stadium" panelRight="" latitude="53.362476" longitude="-6.252389" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Croke Park has been at the heart of Irish sporting life for over a hundred years." GID="1" lastModified="" />
+		<product id="43" catId="15" package="1" title="Amusement City" cname="Marketing And Sales Manager" address="4 Westmoreland Street, 2, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035314743273" email="info@amusementcity.com" description="Entertainment and Excitement" webaddress="" panelPlainText="Amusement-City" panelRight="" latitude="53.345528" longitude="-6.259149" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="&amp;lt;p&amp;gt;
+	Entertainment and Excitement&amp;lt;/p&amp;gt;
+" GID="1" lastModified="" />
+		<product id="44" catId="15" package="1" title="The Fitzwilliam Casino and Card Club" cname="Marketing And Sales Manager" address="Clifton Hall, Lower Fitzwilliam Street, Dublin 2, Co. Dublin, Ireland" county="Dublin" country="Ireland" phone="0035316114677" email="info@fitzwilliamcardclub.com" description="With over 60,000 members, the Fitzwilliam Casino &amp; Card Club is Dublins premier venue for card and casino gaming." webaddress="" panelPlainText="The-Fitzwilliam-Casino-and-Card-Club" panelRight="" latitude="53.337406" longitude="-6.248568" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="With over 60,000 members, the Fitzwilliam Casino &amp; Card Club is Dublins premier venue for card and casino gaming." GID="1" lastModified="" />
+		<product id="45" catId="15" package="1" title="78 Club Casino" cname="Marketing And Sales Manager" address="78 Aungier Street, DUBLIN 2, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035314783494" email="info@the78casino.com" description="You are guaranteed a night full of excitement and entertainment with 78 Club. " webaddress="" panelPlainText="78-Club-Casino" panelRight="" latitude="53.341175" longitude="-6.265547" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="You are guaranteed a night full of excitement and entertainment with 78 Club. " GID="1" lastModified="" />
+		<product id="46" catId="15" package="1" title="Club Oasis Casino" cname="Marketing And Sales Manager" address="4 Westmoreland Street, Dublin, Co. Dublin, Ireland" county="Dublin" country="Ireland" phone="0035314743273" email="info@amusementcity.com" description="Dublins most famous gaming club" webaddress="" panelPlainText="Club-Oasis-Casino" panelRight="" latitude="53.345528" longitude="-6.259149" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Dublins most famous gaming club" GID="1" lastModified="" />
+		<product id="47" catId="15" package="1" title="Mayfair Casino Club" cname="Marketing And Sales Manager" address="15 Harcourt Street, Dublin, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035314759025" email="admin@iguidedublin.com" description="The Mayfair Club is located in the heart of Dublin city in Harcourt Street and will appeal to the true connoisseur of luxury elegance and discretion. " webaddress="" panelPlainText="Mayfair-Casino-Club" panelRight="" latitude="53.336452" longitude="-6.263274" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="he Mayfair Club is located in the heart of Dublin city in Harcourt Street and will appeal to the true connoisseur of luxury elegance and discretion. " GID="1" lastModified="" />
+		<product id="48" catId="15" package="1" title="D1 Casino Club" cname="Marketing And Sales Manager" address="63 Lower Dorset Street, Dublin 1, Co. Dublin, Ireland" county="Dublin" country="Ireland" phone="0035318306764" email="info@d1club.ie" description="We combine the traditional games of Roulette and Black Jack with modern technology to deliver a unique experience in gambling. Our stylish electronic Roulette, Texas Holdem and Blackjack tables are the most user friendly tables in the country." webaddress="" panelPlainText="D1-Casino-Club" panelRight="" latitude="53.358002" longitude="-6.262950" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="We combine the traditional games of Roulette and Black Jack with modern technology to deliver a unique experience in gambling. Our stylish electronic Roulette, Texas Holdem and Blackjack tables are the most user friendly tables in the country." GID="1" lastModified="" />
+		<product id="49" catId="15" package="1" title="Colossus Casino Club" cname="Marketing And Sales Manager" address="Montague Street, Dublin 2, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035314785858" email="info@colossus.ie" description="Dublins Colossus Casino will ensure that you have a night of sheer excitement and entertainment in this part of the city. The club has its doors open to everyone, be it a local or an overseas traveller. The entry in the club is free with no membership fee." webaddress="" panelPlainText="Colossus-Casino-Club" panelRight="" latitude="53.336433" longitude="-6.265209" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Dublins Colossus Casino will ensure that you have a night of sheer excitement and entertainment in this part of the city. The club has its doors open to everyone, be it a local or an overseas traveller. The entry in the club is free with no membership fee." GID="1" lastModified="" />
+		<product id="50" catId="15" package="1" title="Voodoo Card Club" cname="Marketing And Sales Manager" address="39-40 Arran Quay, Dublin 7, Co. Dublin, Ireland" county="Dublin" country="Ireland" phone="0035318727918" email="info@voodoocardclub.com" description="The Voodoo Card Club on Arran Quay is the culmination of more than one hundred years of poker experience between its founders." webaddress="" panelPlainText="Voodoo-Card-Club" panelRight="" latitude="53.346558" longitude="-6.279859" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="The Voodoo Card Club on Arran Quay is the culmination of more than one hundred years of poker experience between its founders." GID="1" lastModified="" />
+		<product id="51" catId="15" package="1" title="Silks Casino" cname="Marketing And Sales Manager" address="24 Earlsfort Terrace Dublin 6 (D6) (South Dublin), South City Centre, DUBLIN 2, Co. Dublin, Ireland" county="Dublin" country="Ireland" phone="0035314759191" email="info@silksclub.ie" description="Silks Club is the premier venue for luxury gaming." webaddress="" panelPlainText="Silks-Casino" panelRight="" latitude="53.334320" longitude="-6.258800" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Silks Club is the premier venue for luxury gaming." GID="1" lastModified="" />
+		<product id="52" catId="15" package="1" title="Butlers Gaming" cname="Marketing And Sales Manager" address="Bloomfield Avenue, 6 Edward Square, Donnybrook, Co. Dublin, Ireland" county="Dublin" country="Ireland" phone="0035316609521" email="admin@iguidedublin.com" description="Butlers Gaming." webaddress="" panelPlainText="Butlers-Gaming" panelRight="" latitude="53.313751" longitude="-6.222739" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Butlers Gaming." GID="1" lastModified="" />
+		<product id="53" catId="7" package="1" title="Avalon House" cname="Marketing And Sales Manager" address="55 Aungier Street, Dublin 2, Co. Dublin, Ireland" county="Dublin" country="Ireland" phone="0035314750001" email="info@avalon-house.ie" description="Avalon House is the most centrally located tourist hostel in Dublin, just a two minute walk from the city centre, free breakfast, free wifi" webaddress="" panelPlainText="" panelRight="" latitude="53.339420" longitude="-6.265670" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Avalon House is the most centrally located hostel in Dublin, just a two minute walk from the city centre.\r\n" GID="1" lastModified="" />
+		<product id="54" catId="7" package="1" title="Browns Hotel Ireland" cname="Marketing And Sales Manager" address="89 Lower Gardiner Street, DUBLIN 1, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035316719499" email="stay@dublin-hotel.net" description="Browns Hotel is the perfect base from which to explore the sights and sounds of Dublin city.\r\n" webaddress="" panelPlainText="Browns-Hotel-Ireland" panelRight="" latitude="53.352211" longitude="-6.255466" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Browns Hotel is the perfect base from which to explore the sights and sounds of Dublin city.\r\n" GID="1" lastModified="" />
+		<product id="55" catId="7" package="1" title="Abraham House Ltd" cname="Marketing And Sales Manager" address="82 Lower Gardiner Street, DUBLIN 1, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035318550600" email="stay@abraham-house.ie" description="Abraham House enjoys a reputation as one of Irelands premier hostels and is located right in the heart of Dublin city." webaddress="" panelPlainText="Abraham-House-Ltd" panelRight="" latitude="53.351791" longitude="-6.255215" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Abraham House enjoys a reputation as one of Ireland\\\&amp;#39;s premier hostels and is located right in the heart of Dublin city." GID="1" lastModified="" />
+		<product id="56" catId="7" package="1" title="Abbey Court Hostel and Apartments" cname="Marketing And Sales Manager" address="29 Bachelors Walk, Dublin 1, Ireland" county="Dublin" country="Ireland" phone="0035318780700" email="info@abbey-court.com" description="Abbey Court is centrally located in the very centre of Irelands vibrant capital city." webaddress="" panelPlainText="Abbey-Court-Hostel-and-Apartments" panelRight="" latitude="53.347351" longitude="-6.260119" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Abbey Court is centrally located in the very centre of Ireland\\\&amp;#39;s vibrant capital city." GID="1" lastModified="" />
+		<product id="57" catId="7" package="1" title="Ashfield House Ltd" cname="Marketing And Sales Manager" address="19 D&amp;#39;olier Street, DUBLIN 2, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035316797734" email="ashfield@indigo.ie" description="Ashfield House Hostel has been welcoming international visitors since our establishment opened its doors in 1995." webaddress="" panelPlainText="Ashfield-House-Ltd" panelRight="" latitude="53.346142" longitude="-6.257676" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="" GID="1" lastModified="" />
+		<product id="58" catId="7" package="1" title="Shining Hostel" cname="Marketing And Sales Manager" address="90 Marlborough Street, DUBLIN 1, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035318783884" email="info@shininghostel.com" description="Located in the heart of Dublin, The Shining Hostel is a very popular place to stay for tourists experiencing the City." webaddress="" panelPlainText="Shining-Hostel" panelRight="" latitude="53.350063" longitude="-6.258222" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="" GID="1" lastModified="" />
+		<product id="59" catId="6" package="1" title="Saint Stephens Green" cname="Marketing And Sales Manager" address="Dublin 2, South City Centre, DUBLIN 2, Co. Dublin, Ireland" county="Dublin" country="Ireland" phone="0035314757816" email="info@stephensgreen.com" description="The park is adjacent to one of Dublins main shopping streets, Grafton Street, and to a shopping centre named for it, while on its surrounding streets are the offices of a number of public bodies and the city terminus of one of Dublins LUAS lines." webaddress="" panelPlainText="Saint-Stephens-Green" panelRight="" latitude="53.343037" longitude="-6.243542" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="The park is adjacent to one of Dublin\\\&amp;#39;s main shopping streets, Grafton Street, and to a shopping centre named for it, while on its surrounding streets are the offices of a number of public bodies and the city terminus of one of Dublins LUAS lines." GID="1" lastModified="" />
+		<product id="60" catId="6" package="1" title="Iveagh Gardens" cname="Marketing And Sales Manager" address="2 Clonmel Street, DUBLIN 2, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035314757816" email="info@heritageireland.ie " description="The Iveagh Gardens are among the finest and least known of Dublin\\\&amp;#39;s parks and gardens. " webaddress="" panelPlainText="Iveagh-Gardens" panelRight="" latitude="53.336025" longitude="-6.262620" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="The Iveagh Gardens are among the finest and least known of Dublin\\\&amp;#39;s parks and gardens. " GID="1" lastModified="" />
+		<product id="61" catId="6" package="1" title="National Botanic Gardens" cname="Marketing And Sales Manager" address="6/7 Finglas Road, 7, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035318377596" email="botanicscentre@opw.ie " description="The Gardens are 19.5 hectares. Visitors can see an arboretum, rock garden, large pond, herbaceous borders and an annual display of plants including Victorian carpet bedding." webaddress="" panelPlainText="National-Botanic-Gardens" panelRight="" latitude="53.366184" longitude="-6.271926" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="The Gardens are 19.5 hectares. Visitors can see an arboretum, rock garden, large pond, herbaceous borders and an annual display of plants including Victorian carpet bedding." GID="1" lastModified="" />
+		<product id="62" catId="6" package="1" title="Mountjoy Square Park" cname="Marketing And Sales Manager" address="1 Upper Gardiner Street, DUBLIN 1, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035316057700" email="admin@iguidedublin.com" description="Mountjoy Square, one of five Georgian squares in Dublin, Ireland, lies on the north side of the city just under a kilometre from the River Liffey." webaddress="" panelPlainText="Mountjoy-Square-Park" panelRight="" latitude="53.356853" longitude="-6.259218" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Mountjoy Square, one of five Georgian squares in Dublin, Ireland, lies on the north side of the city just under a kilometre from the River Liffey." GID="1" lastModified="" />
+		<product id="63" catId="6" package="1" title="Herbert Park" cname="Marketing And Sales Manager" address="Herbert Park Road, Ballsbirdge, Dublin 4, Ballsbridge, DUBLIN 4, Co. Dublin, Ireland" county="Dublin" country="Ireland" phone="0035316601875" email="customerservices@dublincity.ie  " description="The park is thirty-two acres in extent and, apart from the pond and many attractive tree and flower-lined walkways, is home to a number of recreational activities. " webaddress="" panelPlainText="Herbert-Park" panelRight="" latitude="53.313946" longitude="-6.230756" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="The park iis thirty-two acres in extent and, apart from the pond and many attractive tree and flower-lined walkways, is home to a number of recreational activities. " GID="1" lastModified="" />
+		<product id="64" catId="6" package="1" title="Saint Annes Park and Gardens" cname="Marketing And Sales Manager" address="All Saints Road, D5, Ireland" county="Dublin" country="Ireland" phone="0035310000000" email="customerservices@dublincity.ie" description="The park is the second largest municipal park in Dublin, is part of a former 500 acre estate assembled by members of the Guinness family." webaddress="" panelPlainText="Saint-Annes-Park-and-Gardens" panelRight="" latitude="53.375366" longitude="-6.180311" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="The park is the second largest municipal park in Dublin, is part of a former 500 acre estate assembled by members of the Guinness family." GID="1" lastModified="" />
+		<product id="65" catId="6" package="1" title="Fairview Park" cname="Marketing And Sales Manager" address="North Strand Road, 3, Ireland" county="Dublin" country="Ireland" phone="0035310000000" email="parks@dublincity.ie" description="Fairview Park" webaddress="" panelPlainText="Fairview-Park" panelRight="" latitude="53.358624" longitude="-6.241187" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Fairview Park" GID="1" lastModified="" />
+		<product id="66" catId="6" package="1" title="Bushy Park" cname="Marketing And Sales Manager" address="Templeogue Road, Dublin, Ireland" county="Dublin" country="Ireland" phone="0035310000000" email="customerservices@dublincity.ie" description="Bushy Park House was originally owned by Arthur Bushe of Dangan, County Kilkenny, Secretary to the Revenue Commissioners who built the house, originally known as Bushes House in 1700 on a site of four hectares." webaddress="" panelPlainText="Bushy-Park" panelRight="" latitude="53.305836" longitude="-6.290768" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Bushy Park House was originally owned by Arthur Bushe of Dangan, County Kilkenny, Secretary to the Revenue Commissioners who built the house, originally known as Bushes House in 1700 on a site of four hectares." GID="1" lastModified="" />
+		<product id="67" catId="6" package="1" title="Phoenix Park" cname="Marketing And Sales Manager" address="Dublin 8, North City Centre, DUBLIN 8, Co. Dublin, Ireland" county="Dublin" country="Ireland" phone="0035316770095" email="superintendent.park@opw.ie" description="This is Dublins playground - the largest urban enclosed park in Europe." webaddress="" panelPlainText="Phoenix-Park" panelRight="" latitude="53.343037" longitude="-6.243542" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="This is Dublins playground - the largest urban enclosed park in Europe." GID="1" lastModified="" />
+		<product id="68" catId="6" package="1" title="Archbishop Ryan Park" cname="Marketing And Sales Manager" address="56 Aungier Street, DUBLIN 2, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035316612369" email="customerservices@dublincity.ie" description="The Archbishop Ryan Park is the park to relax in." webaddress="" panelPlainText="Achbishop-Ryan-Park" panelRight="" latitude="53.339630" longitude="-6.265891" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="The Archbishop Ryan Park is the park to relax in." GID="1" lastModified="" />
+		<product id="69" catId="21" package="1" title="FBD Insurance" cname="Marketing And Sales Manager" address="FBD House Bluebell, Dublin 12, Co. Dublin, Ireland" county="Dublin" country="Ireland" phone="003531890617617" email="PPPaidanpmurphy@gmail.com" description="With our great value insurance and genuine customer service, it\&amp;#39;s no wonder we are looking after more than half a million cars, homes and businesses this year alone.
+			
+Whether here online, over the phone or in a local office you can be sure we will get you sorted quickly and without hassle.
+			
+Buy your car insurance, home insurance and business insurance from FBD Insurance TODAY!" webaddress="" panelPlainText="" panelRight="PHONEPANEL_1270764803.jpg" latitude="53.327545" longitude="-6.365898" ARInclude="1" active="1" dateAdded="2010-04-08" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="WEBHEADER_1270764898.jpg" webfooter="WEBFOOTER_1270764986.jpg" webcontent="With our great value insurance and genuine customer service, it\&amp;#39;s no wonder we are looking after more than half a million cars, homes and businesses this year alone.
+			
+Whether here online, over the phone or in a local office you can be sure we will get you sorted quickly and without hassle.
+			
+Buy your car insurance, home insurance and business insurance from FBD Insurance TODAY!" GID="1" lastModified="" />
+		<product id="70" catId="8" package="1" title="Four Season Hotel Dublin" cname="Marketing And Sales Manager" address="Ballsbridge" county="Dublin" country="Ireland" phone="0035310000000" email="admin@iguidedublin.com" description="Ireland top 5star hotel " webaddress="" panelPlainText="Four-Season-Hotel-Dublin" panelRight="" latitude="53.330513" longitude="-6.231952" ARInclude="1" active="1" dateAdded="2010-04-09" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Ireland top 5star hotel " GID="1" lastModified="" />
+		<product id="85" catId="3" package="1" title="Dublin City Hall" cname="Marketing And Sales Manager" address="Dame Street, DUBLIN 2, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035312222204" email="cityhall@dublincity.ie" description="The building was restored to its eighteenth-century appearance at the beginning of the twenty-first century, and Dublin City Council has won awards for the conservation of this historic building." webaddress="" panelPlainText="Dublin-City-Hall" panelRight="" latitude="53.344173" longitude="-6.264823" ARInclude="1" active="1" dateAdded="2010-04-11" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="The building was restored to its eighteenth-century appearance at the beginning of the twenty-first century, and Dublin City Council has won awards for the conservation of this historic building." GID="1" lastModified="" />
+		<product id="86" catId="28" package="1" title="Old Jameson Distillery " cname="reervations@ojd.ie" address="Bow Street , Smithfield , Dublin 7 " county="Dublin" country="Ireland" phone="+353 1 8072355" email="info@jamesonwhiskey.com" description="A visit to the Jameson Distillery is an experience that will transport you back in time to the days when one of Irelandâs greatest entrepreneurs, John Jameson, first made the whiskey that is his legacy today.
+Offering Guided tours , 7 days a week , Tutored Whiskey tasting , Exclusive Gift shop , Restaurant and Bars .
+			
+" webaddress="www.tours.jamesonwhiskey.com" panelPlainText="" panelRight="" latitude="53.348053" longitude="-6.276863" ARInclude="1" active="1" dateAdded="2010-04-11" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Jameson is a single-distillery Irish whiskey. The brand is today owned by the French beverage conglomerate Pernod Ricard." GID="1" lastModified="" />
+		<product id="87" catId="3" package="1" title="The Guinness Storehouse" cname="Marketing And Sales Manager" address="121 James&amp;#39;s St Dublin 8, Co. Dublin" county="Dublin" country="Ireland" phone="0035314084800" email="guinness-storehouse@guinness.com" description="The Guinness Storehouse is located in the heart of the St. Jamess Gate Brewery in Dublin, and is, according to the Guinness Storehouse Web site, Irelands No. 1 international visitor attraction." webaddress="" panelPlainText="The-Guinness-Storehouse" panelRight="" latitude="53.341900" longitude="-6.286562" ARInclude="1" active="1" dateAdded="2010-04-11" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="The Guinness Storehouse is located in the heart of the St. Jamess Gate Brewery in Dublin, and is, according to the Guinness Storehouse Web site, Irelands No. 1 international visitor attraction." GID="1" lastModified="" />
+		<product id="88" catId="3" package="1" title="Kilmainham Gaol" cname="Jackie Mc Cale" address="8 Inchicore Road, DUBLIN 8, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035314535984" email="kilmainhamgaol@opw.ie" description="Kilmainham Gaol has played an important part in Irish history, as many leaders of Irish rebellions were imprisioned and some executed in the jail by the British." webaddress="" panelPlainText="Kilmainham-Gaol" panelRight="" latitude="53.342064" longitude="-6.309725" ARInclude="1" active="1" dateAdded="2010-04-11" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Kilmainham Gaol has played an important part in Irish history, as many leaders of Irish rebellions were imprisioned and some executed in the jail by the British." GID="1" lastModified="" />
+		<product id="89" catId="3" package="1" title="National Library of Ireland" cname="Marketing And Sales Manager" address="2 Kildare Street, Dublin 2, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035316030200" email="info@nli.ie" description="The National Library of Ireland (Irish: Leabharlann Náisiúnta na hÉireann) is a national library located in Dublin, Ireland, in a building designed by Thomas Newenham Deane." webaddress="" panelPlainText="National-Library-of-Ireland" panelRight="" latitude="53.341728" longitude="-6.254810" ARInclude="1" active="1" dateAdded="2010-04-11" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="The National Library of Ireland (Irish: Leabharlann Náisiúnta na hÉireann) is a national library located in Dublin, Ireland, in a building designed by Thomas Newenham Deane." GID="1" lastModified="" />
+		<product id="90" catId="5" package="1" title="National Wax Museum Plus " cname="Lisa Jameson " address="Foster Place, Temple  Bar Dublin  2" county="Dublin" country="Ireland" phone="0035316718373" email="hello@waxmuseumplus.ie" description="
+Enjoy an experience of sight, sound and entertainment
+The National Wax Museum Plus is an exciting interactive visitor attraction located in the heart of Dublin\&amp;#39;s city centre Temple Bar district and just off Dame Street. The museum is housed over four floors and 13,000 square feet in a historic Foster Place landmark building, previously the home for Ireland\&amp;#39;s gold store and arms at the turn of the last century!
+The museum is an outstandingly original visitor attraction and has been designed" webaddress="www.waxmuseumplus.ie" panelPlainText="" panelRight="" latitude="53.344997" longitude="-6.261263" ARInclude="1" active="1" dateAdded="2010-04-11" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="On October 7, 2009, the museum re-opened following extensive renovation at its new location in the left flank of the Irish Houses of Parliament, at Foster Place." GID="1" lastModified="" />
+		<product id="91" catId="3" package="1" title="Old Jameston destillery" cname="Marketing And Sales Manager" address="7 Bow Street, DUBLIN 7, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035310000000" email="info@jamesonwhiskey.com" description="Jameson Irish whiskey is produced from a mixture of malted and unmalted or green Irish barley." webaddress="" panelPlainText="Old-Jameston-destillery" panelRight="" latitude="53.348572" longitude="-6.277818" ARInclude="1" active="1" dateAdded="2010-04-11" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="&amp;lt;p&amp;gt;
+	Jameson Irish whiskey is produced from a mixture of malted and unmalted or green Irish barley.&amp;lt;/p&amp;gt;
+" GID="1" lastModified="" />
+		<product id="92" catId="3" package="1" title="Government Buildings" cname="Marketing And Sales Manager" address="Upper Merrion Street 24, 2, Co. Ireland, Ireland" county="Dublin" country="Ireland" phone="0035316194116" email="admin@iguidedublin.com" description="Government Buildings (Irish: Tithe an Rialtais) is a large Edwardian building enclosing a quadrangle on Merrion Street in Dublin, Ireland, in which several key offices of the government of Ireland are located." webaddress="" panelPlainText="Government-Buildings" panelRight="" latitude="53.338909" longitude="-6.252826" ARInclude="1" active="1" dateAdded="2010-04-11" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Government Buildings (Irish: Tithe an Rialtais) is a large Edwardian building enclosing a quadrangle on Merrion Street in Dublin, Ireland, in which several key offices of the government of Ireland are located." GID="1" lastModified="" />
+		<product id="93" catId="3" package="1" title="Dublin Writers Museum" cname="Marketing And Sales Manager" address="19 Parnell Square North, DUBLIN 1, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035318722077" email="admin@iguidedublin.com" description="Dublin is famous as a city of writers and literature, and the Dublin Writers Museum is an essential visit for anyone who wants to discover, explore, or simply enjoy Dublins immense literary heritage. " webaddress="" panelPlainText="Dublin-Writers-Museum" panelRight="" latitude="53.354301" longitude="-6.263884" ARInclude="1" active="1" dateAdded="2010-04-11" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Dublin is famous as a city of writers and literature, and the Dublin Writers Museum is an essential visit for anyone who wants to discover, explore, or simply enjoy Dublins immense literary heritage. " GID="1" lastModified="" />
+		<product id="94" catId="3" package="1" title="Trinity College Dublin" cname="Marketing And Sales Manager" address="College Street, DUBLIN 2, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035316081171" email="webdes@tcd.ie" description="The Library of Trinity College is a legal deposit library for Ireland and the United Kingdom, containing over 4.5 million printed volumes and significant quantities of manuscripts (including the Book of Kells), maps and music." webaddress="" panelPlainText="Trinity-College-Dublin" panelRight="" latitude="53.345467" longitude="-6.258251" ARInclude="1" active="1" dateAdded="2010-04-11" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="The Library of Trinity College is a legal deposit library for Ireland and the United Kingdom, containing over 4.5 million printed volumes and significant quantities of manuscripts (including the Book of Kells), maps and music." GID="1" lastModified="" />
+		<product id="95" catId="3" package="1" title="St Audoens Church" cname="Marketing And Sales Manager" address="High Street, DUBLIN 8, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035316057700" email="staudoenschurch@opw.ie" description="St. Audoens has the distinction of being the only medieval parish church, retaining any original features, still in use within the city of Dublin. " webaddress="" panelPlainText="St-Audoens-Church" panelRight="" latitude="53.343296" longitude="-6.273972" ARInclude="1" active="1" dateAdded="2010-04-11" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="St. Audoens has the distinction of being the only medieval parish church, retaining any original features, still in use within the city of Dublin. " GID="1" lastModified="" />
+		<product id="96" catId="3" package="1" title="St Stephens Green Shopping Centre" cname="Marketing And Sales Manager" address="St. Stephen&amp;#39;s Green West, 2, Co. Dublin County, Ireland" county="Dublin" country="Ireland" phone="0035310000000" email="info@stephensgreen.com" description="Stephens Green Shopping Centre, centrally located in the heart of the most prestigious shopping area of Dublin City" webaddress="" panelPlainText="St-Stephens-Green-Shopping-Centre" panelRight="" latitude="53.339611" longitude="-6.261070" ARInclude="1" active="1" dateAdded="2010-04-11" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Stephens Green Shopping Centre, centrally located in the heart of the most prestigious shopping area of Dublin City" GID="1" lastModified="" />
+		<product id="97" catId="1" package="1" title="Gaiety Theatre" cname="Marketing And Sales Manager" address="King Street South, DUBLIN 2, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035316771717" email="stagedoor@gaietytheatre.com" description="For 138 years The Gaiety Theatre has given the people of Dublin opera, musicals, drama, revues, comedy, concerts, dance, festivals and pantomime." webaddress="" panelPlainText="Gaiety-Theatre" panelRight="" latitude="53.340240" longitude="-6.261846" ARInclude="1" active="1" dateAdded="2010-04-11" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="&amp;lt;p&amp;gt;
+	For 138 years The Gaiety Theatre has given the people of Dublin opera, musicals, drama, revues, comedy, concerts, dance, festivals and pantomime.&amp;lt;/p&amp;gt;
+" GID="1" lastModified="" />
+		<product id="98" catId="1" package="3" title="Abbey Theatre" cname="Marketing And Sales Manager" address="26 Lower Abbey Street, DUBLIN 1, Co. Dublin, Ireland" county="Dublin" country="Ireland" phone="0035318872200" email="admin@iguidedublin.com" description="The Abbey first opened its doors to the public on 27 December 1904, despite losing its original building to a fire in 1951, it has remained active to the present day." webaddress="" panelPlainText="Abbey-Theatre" panelRight="" latitude="53.348747" longitude="-6.257231" ARInclude="1" active="1" dateAdded="2010-04-11" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="&amp;lt;p&amp;gt;
+	The Abbey first opened its doors to the public on 27 December 1904, despite losing its original building to a fire in 1951, it has remained active to the present day.&amp;lt;/p&amp;gt;
+" GID="2" lastModified="" />
+		<product id="99" catId="1" package="1" title="Bewleys Cafe Theatre" cname="Marketing And Sales Manager" address="78-79 Grafton Street, 2, Ireland" county="Dublin" country="Ireland" phone="0035316355470" email="info@bewleyscafetheatre.com" description="Bewleys Cafe Theatre is Irelands only permanent venue for lunchtime drama offering a unique theatrical experience." webaddress="" panelPlainText="Bewleys-Cafe-Theatre" panelRight="" latitude="53.341694" longitude="-6.260230" ARInclude="1" active="1" dateAdded="2010-04-11" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="Bewleys Cafe Theatre is Irelands only permanent venue for lunchtime drama offering a unique theatrical experience." GID="1" lastModified="" />
+		<product id="100" catId="1" package="1" title="Project Art Gallery" cname="Marketing And Sales Manager" address="39 Essex Street East, DUBLIN 2, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035318819613" email="admin@iguidedublin.com" description="With an extensive programme covering everything from visual arts to dance, music and theatre, there is plenty to fuel the imagination from an exciting year-round programme." webaddress="" panelPlainText="Project-Art-Gallery" panelRight="" latitude="53.345112" longitude="-6.266147" ARInclude="1" active="1" dateAdded="2010-04-11" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="With an extensive programme covering everything from visual arts to dance, music and theatre, there is plenty to fuel the imagination from an exciting year-round programme." GID="1" lastModified="" />
+		<product id="101" catId="1" package="1" title="The Olympia Theatre" cname="Marketing And Sales Manager" address="72 Dame Street, Dublin 2, Ireland" county="Dublin" country="Ireland" phone="0035316793323" email="admin@iguidedublin.com" description="One of Dublins most famous venues, the Olympia is as versed at hosting rock concerts as it is to hosting dramatic works of the finest quality." webaddress="" panelPlainText="The-Olympia-Theatre" panelRight="" latitude="53.344196" longitude="-6.266078" ARInclude="1" active="1" dateAdded="2010-04-11" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="One of Dublins most famous venues, the Olympia is as versed at hosting rock concerts as it is to hosting dramatic works of the finest quality." GID="1" lastModified="" />
+		<product id="102" catId="1" package="1" title="Andrews Lane Theatre" cname="Marketing And Sales Manager" address="9-17 Saint Andrews Lane, DUBLIN 2, Co. Dublin City, Ireland" county="Dublin" country="Ireland" phone="0035316795720" email="darren@whelanslive.com" description="An independent theatre on the south side, just off Dame Street, Andrews Lane Theatre hosts a wide variety of shows." webaddress="" panelPlainText="Andrews-Lane-Theatre" panelRight="" latitude="53.343548" longitude="-6.262596" ARInclude="1" active="1" dateAdded="2010-04-11" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="&amp;lt;p&amp;gt;
+	An independent theatre on the south side, just off Dame Street, Andrews Lane Theatre hosts a wide variety of shows.&amp;lt;/p&amp;gt;
+" GID="1" lastModified="" />
+		
+		<product id="3309" catId="8" package="3" title="Castleknock Hotel" cname="Sabrina Egerton" address="Porterstown Road, Castleknock, Dublin 15 " county="Dublin" country="Ireland" phone="0035316406300" email="sabrinaegerton@tbh.ie" description="Welcome to the magnificent Castleknock Hotel" webaddress="http://www.castleknockhotel.com/" panelPlainText="Castleknock Hotel" panelRight="PHONEPANEL-1314011908castle-knock-1.jpg" latitude="53.377750" longitude="-6.406758" ARInclude="1" active="1" dateAdded="2011-08-22" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="WEBHEADER-1314011908castle-knock-1.jpg" webfooter="WEBFOOTER-1314011908castle-knock-2.jpg" webcontent="&amp;lt;p align=&amp;quot;justify&amp;quot;&amp;gt;
+	&amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;http://www.iguidedublin.com/includes/ckfinder/userfiles/images/castle knock 3.jpg&amp;quot; style=&amp;quot;width: 262px; height: 153px&amp;quot; /&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p align=&amp;quot;justify&amp;quot;&amp;gt;
+	Castleknock Hotel &amp;amp; Country Club Dublin, a part of FBD Hotels &amp;amp; Resorts is a 4 star hotel close to Dublin City.&amp;lt;/p&amp;gt;
+&amp;lt;p align=&amp;quot;justify&amp;quot;&amp;gt;
+	&amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;http://www.iguidedublin.com/includes/ckfinder/userfiles/images/castle knock 4.jpg&amp;quot; style=&amp;quot;width: 262px; height: 175px&amp;quot; /&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p align=&amp;quot;justify&amp;quot;&amp;gt;
+	Walking through the hotel you will sense a range of styles from the ultra hip to the elegant and classic.&amp;lt;/p&amp;gt;
+&amp;lt;p align=&amp;quot;justify&amp;quot;&amp;gt;
+	&amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;http://www.iguidedublin.com/includes/ckfinder/userfiles/images/castle knock 5.jpg&amp;quot; style=&amp;quot;width: 262px; height: 160px&amp;quot; /&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p align=&amp;quot;justify&amp;quot;&amp;gt;
+	Its&amp;nbsp;unique idyllic setting creates the allure of a country resort yet the &amp;lt;a href=&amp;quot;http://www.castleknockhotel.com/location&amp;quot;&amp;gt;hotel is located &amp;lt;/a&amp;gt;just 15 minutes from the city centre and close to&amp;nbsp;the Blanchardstown Centre&amp;nbsp;making it accessible for those seeking a city break or a quiet country retreat.&amp;lt;/p&amp;gt;
+&amp;lt;p align=&amp;quot;justify&amp;quot;&amp;gt;
+	&amp;lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;http://www.iguidedublin.com/includes/ckfinder/userfiles/images/castle knock 6(1).jpg&amp;quot; style=&amp;quot;width: 262px; height: 151px&amp;quot; /&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p align=&amp;quot;justify&amp;quot;&amp;gt;
+	To view our website please click on the link below:&amp;lt;/p&amp;gt;
+&amp;lt;p align=&amp;quot;justify&amp;quot;&amp;gt;
+	&amp;lt;a href=&amp;quot;http://www.castleknockhotel.com/&amp;quot;&amp;gt;http://www.castleknockhotel.com/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+" GID="1" lastModified="" />
+		<product id="3310" catId="251" package="1" title="MarketingBespoke.ie" cname="Caroline Barrett" address="46 Rathdown Road, Phibsborough" county="Dublin" country="Ireland" phone="0035315475440" email="sales@marketingbespoke.net" description="We are a Web Design and Consulting business based in Co. Dublin" webaddress="www.marketingbespoke.ie" panelPlainText="" panelRight="" latitude="53.357155" longitude="-6.279029" ARInclude="1" active="1" dateAdded="2011-08-23" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="" GID="1" lastModified="" />
+		<product id="3311" catId="71" package="3" title="Dirty Fabulous" cname="Manager" address="21 Wicklow Street,Dublin 2" county="Dublin" country="Ireland" phone="0035316111842" email="info@dirtyfabulous.com" description="Vintage Clothes Shop" webaddress="" panelPlainText="" panelRight="" latitude="53.343056" longitude="-6.261589" ARInclude="1" active="1" dateAdded="2011-08-25" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="" GID="2" lastModified="" />
+		<product id="3312" catId="51" package="1" title="USN IN IRELAND LTD" cname="Tom Galvin" address="Unit 5a, Adelaide Court, Albert Road, Glenageary, Co Dublin, Ireland." county="Dublin" country="Ireland" phone="0035312845002" email="support@usnireland.ie" description="USN (Ultimate Sports Nutrition) sells Pure Protein, 100% Whey Protein and a huge range of high quality Sport Supplements and Nutritional Shakes, wholesale and online. USNs range of supplements and Protein Shakes is trusted by Athletics all over the World with their advanced supplement formulas, keeps the body in great shape. USN Sports Supplements provide a nutritional complement to a good training routine." webaddress="http://www.usnireland.ie" panelPlainText="" panelRight="" latitude="53.280098" longitude="-6.125522" ARInclude="1" active="1" dateAdded="2011-09-06" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="" GID="1" lastModified="" />
+		<product id="3313" catId="50" package="3" title="Keville Hairdressing" cname="Manager" address="2 South Anne Street, Dublin 2" county="Dublin" country="Ireland" phone="0035316750022" email="info@KevilleHair.ie" description="Hairdressers" webaddress="" panelPlainText="" panelRight="" latitude="53.341175" longitude="-6.260113" ARInclude="1" active="1" dateAdded="2011-09-13" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="" GID="2" lastModified="" />
+		<product id="3314" catId="56" package="1" title="Westland Studios" cname="Alwyn Walker (manager/producer)" address="5-6 lombard st east, D2, dublin." county="Dublin" country="Ireland" phone="00353879668333" email="westlandstudios@gmail.com" description="SSL recording studio in the heart of \r\ndublin, used by U2, Bob Dylan, \r\nPlacebo, Massive Attack... Great mics, \r\ngrand piano, hammond etc..." webaddress="http://www.westlandstudiosdublin.com" panelPlainText="" panelRight="" latitude="53.345764" longitude="-6.248321" ARInclude="1" active="1" dateAdded="2011-09-15" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="" GID="1" lastModified="" />
+		<product id="3315" catId="72" package="3" title="Adorn" cname="Manager" address="50 Nassau Street" county="Dublin" country="Ireland" phone="" email="info@adorn.ie" description="Jewellery &amp; Accessories" webaddress="" panelPlainText="" panelRight="" latitude="53.343098" longitude="-6.258983" ARInclude="1" active="1" dateAdded="2011-09-21" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="" GID="2" lastModified="" />
+		<product id="3316" catId="25" package="3" title="Clement &amp; Pekoe" cname="Manager" address="50 South William Street, Dublin 2" county="Dublin" country="Ireland" phone="00353876370123" email="info@clementandpekoe.com" description="Coffee and Tea emporium" webaddress="" panelPlainText="" panelRight="" latitude="53.342770" longitude="-6.262139" ARInclude="1" active="1" dateAdded="2011-09-27" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="" GID="2" lastModified="" />
+		<product id="3317" catId="90" package="3" title="E2 Music" cname="Manager" address="35 College Green, Dublin 2" county="Dublin" country="Ireland" phone="00353469023254" email="info@e2music.ie" description="Music Shop" webaddress="" panelPlainText="" panelRight="" latitude="53.344227" longitude="-6.259866" ARInclude="1" active="1" dateAdded="2011-10-10" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="WEBHEADER-1318259890e2.jpg" webfooter="" webcontent="" GID="2" lastModified="" />
+		<product id="3318" catId="18" package="3" title="Book of Kells" cname="Marketing and Sales Manager" address="Trinity College Library, Trinity College, College Street , County Dublin " county="Dublin" country="Ireland" phone="0035318962320" email="bookofkells@tcd.ie" description="The Book of Kells was written around the year 800 AD and is one of the most beautifully illuminated manuscripts in the world." webaddress="" panelPlainText="Book-of-Kells" panelRight="" latitude="53.345173" longitude="-6.258605" ARInclude="1" active="1" dateAdded="2010-06-07" dateRenew="2012-11-24" sponsorTrue="0" sponsorcarouselpic="" taxiSponsorTrue="0" showcaseTrue="0" webheader="" webfooter="" webcontent="&amp;lt;p&amp;gt;
+	The Book of Kells was written around the year 800 AD and is one of the most beautifully illuminated manuscripts in the world.&amp;lt;/p&amp;gt;
+" GID="0" lastModified="" />
+	</location>
+	<news>
+		<article id="1" date="2011-06-14" title="State of the art new venue in Brighton" description="&amp;lt;p&amp;gt;
+	The keys to the American Express Community Stadium have been handed over to Brighton &amp; Hove Albion and the most exciting new venue in the city is officially open for business.&amp;lt;br /&amp;gt;
+	&amp;lt;br /&amp;gt;
+	The Amex hosts weddings, dinners, trade fairs and of course, football matches. Stunning event rooms for two to 500 people offer hospitality from a top team, from venues including the O2, Twickenham and Fontwell, as well as a star quality head chef, aiming to raise the bar for superb stadium catering.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	&amp;lt;a href=\&amp;quot;http://www.seagulls.co.uk\&amp;quot;&amp;gt;www.seagulls.co.uk&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+" status="0" image="NEWSIMAGE-1308064952seagulls-news.jpg" sby="NickMosley - siteadmin - 14/06/11 : 16:41:04" />
+		<article id="3" date="2011-06-14" title="State of the art new venue in Brighton" description="&amp;lt;p&amp;gt;
+	The keys to the American Express Community Stadium have been handed over to Brighton &amp; Hove Albion and the most exciting new venue in the city is officially open for business.&amp;lt;br /&amp;gt;
+	&amp;lt;br /&amp;gt;
+	The Amex hosts weddings, dinners, trade fairs and of course, football matches. Stunning event rooms for two to 500 people offer hospitality from a top team, from venues including the O2, Twickenham and Fontwell, as well as a star quality head chef, aiming to raise the bar for superb stadium catering.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	&amp;lt;a href=\&amp;quot;http://www.seagulls.co.uk\&amp;quot; target=\&amp;quot;_blank\&amp;quot;&amp;gt;www.seagulls.co.uk&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+" status="1" image="NEWSIMAGE-1308153446field.jpg" sby="amax - siteadmin - 15/06/11 : 16:57:26" />
+		<article id="4" date="2011-06-14" title="Food Festival announces return of Champagne &amp; Sussex Sparkling Wine Festival" description="&amp;lt;div id=\&amp;quot;text\&amp;quot;&amp;gt;
+	&amp;lt;p&amp;gt;
+		Following the huge success of our event during the food festivalâsÂ Spring Harvest, the &amp;lt;strong&amp;gt;Champagne &amp;Â Sussex Sparkling Wine Festival &amp;lt;/strong&amp;gt;returns to &amp;lt;strong&amp;gt;Hotel du Vin &amp;lt;/strong&amp;gt;on Sunday 25 September from noon â 6pm.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		Sample a host of fine sparkling wines from the Champagne region including Grand Marques Lanson and Laurent Perrer, alongside award-winning wines from Sussex including Ridgeview (the wine of choice at The Queenâs state dinner for President Obama) and Bolney Estate. With 14 different vineyards to taste, this is a unqiue opportunity to try the best sparkling wines in the world (and on your doorstep).&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		Talk directly to the experts, including local growers, and take part in tutored tastings with the experts, and enjoy the superb surroundings and service of Brightonâs Hotel du Vin.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		Your ticket includes:&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		- Glass and Tasting Notes&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		- Admission to at least one of the tutored tastings, available to book on the day&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		- Three tasting tickets&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		- An exclusive price of just Â£6 per glass for any of the house sparkling wines &amp; Champagnes on display&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		Food will be available to buy on the day, including a pre-bookable Champagne lunch in Hotel du Vinâs Bistro.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		Our spring event was a sell-out so book now to guarantee your place at this superb event.&amp;lt;/p&amp;gt;
+	&amp;lt;h2&amp;gt;
+		BUY TICKETS:&amp;lt;/h2&amp;gt;
+	&amp;lt;p&amp;gt;
+		Â£20 per person plus booking fees. Â Strictly Over 18s only.Â  Non refundable.&amp;lt;/p&amp;gt;
+	&amp;lt;div&amp;gt;
+		&amp;lt;a href=\&amp;quot;http://www.eventelephant.com/champagnefestival\&amp;quot; target=\&amp;quot;_blank\&amp;quot;&amp;gt;www.eventelephant.com/champagnefestival&amp;lt;/a&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+" status="1" image="NEWSIMAGE-1308153423news1.jpg" sby="amax - siteadmin - 15/06/11 : 16:57:04" />
+		<article id="5" date="2011-08-24" title="Michael McLean dies after falling and hitting head in Nicaragua" description="&amp;lt;p class=&amp;quot;introduction&amp;quot;&amp;gt;
+	Tributes are being paid to Michael McLean, 26, from west Belfast, who died after a fall while on holiday in Central America.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Mr McLean, from Fruithill Park, a trainee teacher and keen GAA coach, was fatally injured in Nicaragua on Sunday.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	His family said he was &amp;quot;a much loved son, brother, uncle and friend to many&amp;quot;.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	His brother and sister have travelled to Nicaragua to bring home his body.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Mr McLean, who recently graduated from university in Liverpool and planned to teach geography, had gone to New York to meet up with his younger brother, Conor.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	The pair then travelled to Nicaragua for a walking holiday, where the accident happened.&amp;lt;/p&amp;gt;
+&amp;lt;div class=&amp;quot;story-feature narrow&amp;quot;&amp;gt;
+	&amp;lt;a class=&amp;quot;hidden&amp;quot; href=&amp;quot;http://www.bbc.co.uk/news/uk-northern-ireland-14641664#story_continues_1&amp;quot;&amp;gt;Continue reading the main story&amp;lt;/a&amp;gt;
+	&amp;lt;h2 class=&amp;quot;quote&amp;quot;&amp;gt;
+		&amp;ldquo;&amp;lt;span&amp;gt;Start Quote&amp;lt;/span&amp;gt;&amp;lt;/h2&amp;gt;
+	&amp;lt;blockquote&amp;gt;
+		&amp;lt;p class=&amp;quot;first-child&amp;quot;&amp;gt;
+			The first thing you noticed was his smile. He livened up everybody around him&amp;rdquo;&amp;lt;/p&amp;gt;
+	&amp;lt;/blockquote&amp;gt;
+	&amp;lt;span class=&amp;quot;endquote&amp;quot;&amp;gt;End Quote&amp;lt;/span&amp;gt; &amp;lt;span class=&amp;quot;quote-credit&amp;quot;&amp;gt;Joe Compston&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;p id=&amp;quot;story_continues_1&amp;quot;&amp;gt;
+	They were on a guided walk close to a volcano when Michael fell and suffered a fatal head injury. He died moments later, his brother was at his side.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Antrim Gaelic Athletic Association county press officer and Michael&amp;#39;s club mate in St Agnes GAA Brendan Mulgrew said he would be &amp;quot;sadly missed&amp;quot; by all who knew him.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Mr Mulgrew said he was &amp;quot;a gentleman and a true gael&amp;quot;.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	&amp;quot;He typified the GAA player. He played as a child and as an adult. He was club secretary. He had begun to coach the younger players and was putting back in what he got out of it, himself,&amp;quot; Mr Mulgrew said.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	&amp;quot;It is very hard to talk about him in the past tense.&amp;quot;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	He said he had heard that Michael fell and went unconscious. He came around momentarily and his brother, Conor, was with him.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Declan McClarnon from St Agnes&amp;#39; GAA Club said Michael was &amp;quot;a lovely big gentleman&amp;quot;.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	&amp;quot;Nobody would have a bad word to say against him and he wouldn&amp;#39;t have a bad word to say against them as well. That was a testament to him.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	&amp;quot;His whole life was ahead of him. He had so much to give, so much to offer.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	&amp;quot;He had a great love of coaching children. In teaching, I think he found his calling and vocation. His family are so proud of him and we are proud of him as his friends. We were really really sad to hear that tragic news.&amp;quot;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Another friend from the club, Joe Compston, said: &amp;quot;He was a great guy. The first thing you noticed was his smile. He livened up everybody around him.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	&amp;quot;It is going to be a really tragic loss to the whole community. We are finding this very hard to take in.&amp;quot;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	He said the brothers were best friends.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Christopher McKee said: &amp;quot;Michael was a bubbly character. If there was a song to be sung he would have sung it. The two of them loved Bohemian Rhapsody: one singing and one doing the actions. Anybody who knew them for that would always be smiling.&amp;quot;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	An autopsy into Michael McLean&amp;#39;s death has taken place in Nicaragua.&amp;lt;/p&amp;gt;
+" status="1" image="" sby="SamQuigley1 - siteadmin - 24/08/11 : 11:15:21" />
+		<article id="6" date="2011-08-24" title="The Script Delight at Vital" description="&amp;lt;div style=&amp;quot;border-bottom: medium none; text-align: left; border-left: medium none; background-color: transparent; color: #000000; overflow: hidden; border-top: medium none; border-right: medium none; text-decoration: none&amp;quot;&amp;gt;
+	&amp;lt;div class=&amp;quot;KonaBody&amp;quot;&amp;gt;
+		Around 12,000 have turned out to see Irish rockers The Script in Northern Ireland.
+		&amp;lt;p&amp;gt;
+			Bassist Ben Sergeant celebrated his birthday by downing a bottle of beer in one as singer Danny O&amp;#39;Donoghue led the crowd in a rendition of happy birthday.&amp;lt;/p&amp;gt;
+		&amp;lt;p&amp;gt;
+			The Dublin act played their last gig in Bangor, Co Down, before two months touring the US.&amp;lt;/p&amp;gt;
+		&amp;lt;p&amp;gt;
+			Band members lamented the fact that they would miss real tea - before exhorting the Ward Park crowd in bawdy terms to even greater drinking feats. The response was liberal showers of warm beer hurled by the enthusiastic revellers.&amp;lt;/p&amp;gt;
+		&amp;lt;p&amp;gt;
+			This is the first Tennent&amp;#39;s Vital festival since 2007 and the latest major concert held in Bangor following the appearance of Snow Patrol there last summer.&amp;lt;/p&amp;gt;
+		&amp;lt;p&amp;gt;
+			The Script were the headliners and did not disappoint with a playlist packed with hits including If You Ever Come Back and The Man Who Can&amp;#39;t Be Moved.&amp;lt;/p&amp;gt;
+		&amp;lt;p&amp;gt;
+			O&amp;#39;Donoghue delighted the youthful audience with regular walkabouts to shake hands.&amp;lt;/p&amp;gt;
+		&amp;lt;p&amp;gt;
+			Guitarist Mark Sheehan even took a photo of the forest of raised arms with his phone for Twitter, the reaction typical of the band&amp;#39;s global acclaim.&amp;lt;/p&amp;gt;
+		&amp;lt;p&amp;gt;
+			The Script&amp;#39;s latest album peaked at number three in the Australian and American charts. The band sold more than 100,000 albums and singles in one week in the US. In June they headlined an outdoor show at New York&amp;#39;s Rumsey Playfield and they are returning to the US for a 31-city tour. Single Science and Faith debuted at number one in the UK and Ireland.&amp;lt;/p&amp;gt;
+		&amp;lt;p&amp;gt;
+			The Script played at Belfast&amp;#39;s Odyssey Arena in March.&amp;lt;/p&amp;gt;
+	&amp;lt;/div&amp;gt;
+	&amp;lt;br /&amp;gt;
+	&amp;lt;br /&amp;gt;
+	Read more: &amp;lt;a href=&amp;quot;http://www.belfasttelegraph.co.uk/news/local-national/republic-of-ireland/the-script-delight-festival-crowd-16040321.html#ixzz1VwMXQA4u&amp;quot; style=&amp;quot;color: #003399&amp;quot;&amp;gt;http://www.belfasttelegraph.co.uk/news/local-national/republic-of-ireland/the-script-delight-festival-crowd-16040321.html#ixzz1VwMXQA4u&amp;lt;/a&amp;gt;&amp;lt;/div&amp;gt;
+" status="1" image="" sby="SamQuigley1 - siteadmin - 24/08/11 : 11:20:22" />
+		<article id="7" date="2011-08-24" title="Preganant Cow trapped for 5 days in sperrin mountains is rescued" description="&amp;lt;div style=&amp;quot;border-bottom: medium none; text-align: left; border-left: medium none; background-color: transparent; color: #000000; overflow: hidden; border-top: medium none; border-right: medium none; text-decoration: none&amp;quot;&amp;gt;
+	&amp;lt;p&amp;gt;
+		An operation to save a pregnant cow trapped for five days in the Sperrin Mountains proved a success yesterday.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		Shorty, a short-horned suckler, finally began a 350m journey back up the slope she had fallen down last week to the safety of her farm in Co Londonderry.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		After wandering off her usual patch of field near Feeny, outside Dungiven, Shorty is now back on her feet, safe and well with owner, farmer Colin Gibson.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		Operation &amp;#39;Get Shorty&amp;#39; had taken two days of preparation and eight hours yesterday to bring the stranded beast back up the hill.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		She had gone missing last Thursday, but following two days of searching a neighbour spotted the distressed cow.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		The emergency services were called in and spent most of Sunday and Monday clearing the heavily wooded area.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		The final rescue attempt sprung into action at 9am yesterday when members of the North West Mountain Rescue enlisted the help of Dungiven man and animal recovery specialist Joe Rodgers and 20 volunteers.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		&amp;quot;We think she got through a fence and then fell down to where we found her,&amp;quot; explained Mr Gibson.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		Last night Mr Gibson was waiting to learn if the animal&amp;#39;s fall had caused her to lose her unborn calf.&amp;lt;/p&amp;gt;
+	&amp;lt;br /&amp;gt;
+	&amp;lt;br /&amp;gt;
+	Read more: &amp;lt;a href=&amp;quot;http://www.belfasttelegraph.co.uk/news/local-national/northern-ireland/pregnant-cow-trapped-for-five-days-is-rescued-in-sperrin-mountains-16040359.html#ixzz1VwNPKmQR&amp;quot; style=&amp;quot;color: #003399&amp;quot;&amp;gt;http://www.belfasttelegraph.co.uk/news/local-national/northern-ireland/pregnant-cow-trapped-for-five-days-is-rescued-in-sperrin-mountains-16040359.html#ixzz1VwNPKmQR&amp;lt;/a&amp;gt;&amp;lt;/div&amp;gt;
+" status="1" image="" sby="SamQuigley1 - siteadmin - 24/08/11 : 11:23:53" />
+		<article id="8" date="2011-08-24" title="Turkey Victims bodies return home" description="&amp;lt;div style=&amp;quot;border-bottom: medium none; text-align: left; border-left: medium none; background-color: transparent; color: #000000; overflow: hidden; border-top: medium none; border-right: medium none; text-decoration: none&amp;quot;&amp;gt;
+	&amp;lt;div class=&amp;quot;KonaBody&amp;quot;&amp;gt;
+		The bodies of two Northern Ireland women murdered in Turkey are expected home.
+		&amp;lt;p&amp;gt;
+			Arrangements were in place to bring home the remains of Marion Elizabeth Graham and Kathy Dinsmore, killed while on extended holiday in Kusadasi.&amp;lt;/p&amp;gt;
+		&amp;lt;p&amp;gt;
+			The ex-boyfriend of Mrs Graham&amp;#39;s daughter Shannon Graham, local waiter Recep Cetin, who is the prime suspect in the double murder, may be held in prison until the end of Ramadan after a prosecutor was appointed to oversee charges.&amp;lt;/p&amp;gt;
+		&amp;lt;p&amp;gt;
+			It is likely the suspect, whose true age is not known, will be held in custody for at least another week as the Islamic holy month ends on August 30.&amp;lt;/p&amp;gt;
+		&amp;lt;p&amp;gt;
+			The women&amp;#39;s bodies are expected to be repatriated to Northern Ireland after private arrangements were finalised with funeral directors in Turkey.&amp;lt;/p&amp;gt;
+		&amp;lt;p&amp;gt;
+			Shannon and her mother&amp;#39;s former partner Raymond McGuinness, have already returned home.&amp;lt;/p&amp;gt;
+		&amp;lt;p&amp;gt;
+			The two women, both aged 53 and from Newry, Co Down, were murdered in woods 75 miles north of the holiday resort of Kusadasi last Thursday.&amp;lt;/p&amp;gt;
+		&amp;lt;p&amp;gt;
+			A private company will organise flights out of Turkey and transport to the family homes.&amp;lt;/p&amp;gt;
+	&amp;lt;/div&amp;gt;
+	&amp;lt;br /&amp;gt;
+	&amp;lt;br /&amp;gt;
+	Read more: &amp;lt;a href=&amp;quot;http://www.belfasttelegraph.co.uk/news/local-national/northern-ireland/turkey-victims-bodies-coming-home-16040452.html#ixzz1VwNi7chd&amp;quot; style=&amp;quot;color: #003399&amp;quot;&amp;gt;http://www.belfasttelegraph.co.uk/news/local-national/northern-ireland/turkey-victims-bodies-coming-home-16040452.html#ixzz1VwNi7chd&amp;lt;/a&amp;gt;&amp;lt;/div&amp;gt;
+" status="1" image="" sby="SamQuigley1 - siteadmin - 24/08/11 : 11:24:58" />
+		<article id="9" date="2011-08-24" title="NI move up FIFA rankings" description="&amp;lt;div class=&amp;quot;article-intro&amp;quot; id=&amp;quot;article-intro-div&amp;quot;&amp;gt;
+	Northern Ireland have moved three places up the FIFA rankings, to sit 59th in the world.&amp;lt;!--Related Videos--&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div id=&amp;quot;article-content&amp;quot;&amp;gt;
+	&amp;lt;p&amp;gt;
+		Nigel Worthington&amp;#39;s side - fresh from their four-nil defeat of the Faroe Islands (who have actually moved up one place to 111th) - are now placed between Tunisia and Costa Rica.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		The Republic of Ireland also move up two places, taking them to 31st.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		England reach fourth in the rankings, while Scotland jump six places to 55th. But Wales are on the slide, dropping five places to 117th.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		At the top of the table, Spain&amp;#39;s reign as the world&amp;#39;s number-one ranked team has been ended after more than a year by Holland.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		The Oranje now become just the seventh team to hold the top spot.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		Spain drop to second place, while Germany are still third.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		Sixth-placed Brazil have also been toppled from their position as the top South American side, with Uruguay&amp;#39;s Copa America success earning them fifth place.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+" status="1" image="" sby="SamQuigley1 - siteadmin - 24/08/11 : 11:26:04" />
+		<article id="10" date="2011-08-24" title="New Giants &amp;#39;intense&amp;#39; on ice" description="&amp;lt;div class=&amp;quot;article-intro&amp;quot; id=&amp;quot;article-intro-div&amp;quot;&amp;gt;
+	As the off-season draws to a close, the new-look Belfast Giants have already impressed the boss with their performance on the ice - at their first training session in Dundonald.&amp;lt;!--Related Videos--&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div id=&amp;quot;article-content&amp;quot;&amp;gt;
+	&amp;lt;p&amp;gt;
+		With a host of fresh faces signed up over the summer, even those suffering from a touch of jet-lag managed to show a promising intensity ahead of their first competitive fixtures.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		&amp;quot;We&amp;#39;ve got a great group of guys here who are already setting the tone for the season,&amp;quot; Giants head coach Doug Christiansen said.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		&amp;quot;They&amp;#39;re skating hard and proving that they have the drive to take us all the way this year.&amp;quot;&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		The only player missing was 30-year-old Canadian import Ryan Crane, due to arrive in Northern Ireland later this week.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		He&amp;#39;s been brought into the roster as an &amp;#39;11th import&amp;#39; and, with his versatility, will be able to provide injury cover among either the forwards or defence.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		&amp;quot;Our forwards are constantly challenging our defenders and those who may not be starting are keeping the rest of the team honest,&amp;quot; Christiansen added.&amp;lt;/p&amp;gt;
+	&amp;lt;blockquote&amp;gt;
+		&amp;lt;p class=&amp;quot;article-quote-text&amp;quot;&amp;gt;
+			You&amp;rsquo;ll be hard-pressed to find anyone that does not want to make up for last year&amp;rsquo;s Playoff Final - and the speed, strength and grit of the 2011 Giants will look to exact a swift revenge.&amp;lt;/p&amp;gt;
+		&amp;lt;p class=&amp;quot;article-quote-name&amp;quot;&amp;gt;
+			Belfast Giants&amp;lt;/p&amp;gt;
+	&amp;lt;/blockquote&amp;gt;
+	&amp;lt;p&amp;gt;
+		The home-grown talent also continue to boost the ranks, as Belfast&amp;#39;s Graeme Walton returns for an eighth year with a big part to play in the Giants&amp;#39; defence.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		&amp;quot;He really is a player that the people of Belfast can be proud to call their own,&amp;quot; General Manager Todd Kelman said.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		Another Belfast man, Gareth Roberts, continues to impress with his progress, having moved through the ranks of the Junior Giants Development Programme.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		And 24-year-old Ballymoney man Andrew Dickson comes in as back-up between the pipes for Stephen Murphy - last season&amp;#39;s Giants MVP and British Netminder of the Year.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		The Monday morning session on the ice marked the start of a long training camp for the side, ahead of the inaugural Hockey Fest on August 27 and 28.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		That double-header weekend will see the Belfast Giants go head-to-head with rivals Nottingham Panthers.&amp;lt;/p&amp;gt;
+	&amp;lt;hr /&amp;gt;
+&amp;lt;/div&amp;gt;
+" status="1" image="" sby="SamQuigley1 - siteadmin - 24/08/11 : 11:28:18" />
+		<article id="11" date="2011-08-24" title="Fourth tiger-kidnap suspect released" description="&amp;lt;div class=&amp;quot;article-intro&amp;quot; id=&amp;quot;article-intro-div&amp;quot;&amp;gt;
+	A 43-year-old man who was questioned about a tiger kidnapping in west Belfast last week has been released without charge.&amp;lt;!--Related Videos--&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div id=&amp;quot;article-content&amp;quot;&amp;gt;
+	&amp;lt;p&amp;gt;
+		During the kidnapping, the partner and teenage son of a security company employee were forced out of their Teeling Grove home and into a van on Wednesday.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		They were held in Castleblayney, Co Monaghan overnight and held hostage while the employee handed over a substantial sum of money on Thursday evening.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		A 63-year-old man and 64-year-old woman, who were detained in the Newry area on Monday morning, have been released unconditionally.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		A 35-year-old man arrested in Belfast on Monday has also been released unconditionally.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		There are currently no other suspects in police custody in relation to the tiger-kidnapping.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+" status="1" image="" sby="SamQuigley1 - siteadmin - 24/08/11 : 11:29:20" />
+		<article id="12" date="2011-08-24" title="Vulnerable people reluctant to report bullying" description="&amp;lt;div class=&amp;quot;article-intro&amp;quot; id=&amp;quot;article-intro-div&amp;quot;&amp;gt;
+	People with learning disabilities in Northern Ireland who are bullied or harassed are unlikely to report it to police because they don&amp;#39;t realise they have been a victim of crime, a new report has found.&amp;lt;!--Related Videos--&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div id=&amp;quot;article-content&amp;quot;&amp;gt;
+	&amp;lt;p&amp;gt;
+		The study which has been carried out by the Police Ombudsman&amp;#39;s Office and the Northern Ireland Policing Board also found they have largely positive experiences of the police.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		The report which is aimed at helping to promote the rights of the most vulnerable groups in society is looking at the issues faced by people with learning disabilities when dealing with the police and policing organisations.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		It found while people had positive views of the PSNI many incidents of bullying and harassment are not reported because victims didn&amp;#39;t realise that they had been a victim of crime, or were unwilling to report it.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		The report makes a total of 24 recommendations to help ensure organisations respond appropriately to the needs of vulnerable people and also to help combat disability hate crime.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		&amp;quot;Many people with learning difficulties suffer bullying and harassment, but all too often they suffer in silence&amp;quot;, Police Ombudsman Al Hutchinson said.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		&amp;quot;This report is about helping to ensure that disability hate crime is reported and that the best procedures are in place for combating it. It&amp;#39;s also about ensuring that people with learning disabilities are treated at all times with dignity, fairness, equality and respect.&amp;quot;&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		Chair of the Policing Board&amp;#39;s Human Rights and Professional Standards Committee welcomes the report but says a number of areas that need to be improved.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		&amp;quot;People with learning disabilities have the same right to justice and great policing as anyone else&amp;quot;, Conall McDevitt, said.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		&amp;quot;It is important that the PSNI and other criminal justice agencies plan to ensure that right is fully upheld.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		&amp;quot;As a board we want to ensure that policing is accessible to everyone in our community and delivers a good service. The findings from this Report will help us do that&amp;quot;, he added.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		Maureen Piggot, the Director of Mencap believes this study is hugely important.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		&amp;quot;It is by listening to the views and experiences of people with a learning disability we can find out what changes are needed if the policing and criminal justice agencies are to deliver equal access to justice for all&amp;quot;, she said.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		&amp;quot;We urge that the recommendations of the report are implemented as a matter of urgency so that people with a learning disability can access the extra support they need to enjoy the same rights as others in our society&amp;quot;, she added.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		The PSNI say it will examine how they can implement the recommendations throughout the Police Service.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		&amp;quot;The Police Service is fully committed to working with all people across Northern Ireland as part of our delivery of a more personal, professional, protective policing service to everyone in our communities&amp;quot;, Chief Superintendent Peter Farrar, Deputy Head of the PSNI&amp;#39;s Criminal Justice Department, said.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+" status="1" image="" sby="SamQuigley1 - siteadmin - 24/08/11 : 11:31:19" />
+		<article id="13" date="2011-08-29" title="NI Pipe Band make history" description="&amp;lt;div class=&amp;quot;article-intro&amp;quot; id=&amp;quot;article-intro-div&amp;quot;&amp;gt;
+	A pipe band from Lisburn has won another competition, and this along with their recent string of victories has made them the most successful pipe band in history.&amp;lt;!--Related Videos--&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div id=&amp;quot;article-content&amp;quot;&amp;gt;
+	&amp;lt;p&amp;gt;
+		The Field Marshal Montgomery Pipe Band won the Cowal Championships in Scotland on Saturday.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		It makes a Grand Slam of victories for the team who were recently crowned World Pipe Band Champions.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		Their outstanding season includes winning the five most major titles in the piping world after coming first in the British, Scottish, European, Cowal and World championships.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		George Ussher, Chairman of the Royal Scottish Pipe Band Association (Northern Ireland Branch), said: &amp;quot;Winning five major titles back to back in one season is an outstanding achievement for any band but I&amp;#39;m immensely proud for the members of the Field Marshall Montgomery.&amp;quot;&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		&amp;quot;Northern Ireland has a wealth of piping and drumming talent and I pay tribute to all who maintain this tradition at such a high standard.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		&amp;quot;Many pipers and drummers look to the Field Marshal Montgomery Pipe Band and marvel at their standard or play which in turn makes them to be better at how they play their individual instruments too,&amp;quot; he added.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		Other successful pipe bands from Northern Ireland at the Cowal Championships were Bellaghy Pipe Band winning Grade 4B and Seven Towers Pipe Band from Ballymena winning Grade 2.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		Drum Majors also featured in the prizes at the Cowal Championships.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		Samantha Gordon of the Field Marshal Montgomery Pipe Band won the Adult Grade and Lauren Abraham of Seven Towers Pipe Band won the Junior Grade.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		Out of a potential 16 obtainable prizes, Northern Ireland Drum Majors brought ten back home.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+" status="1" image="NEWSIMAGE-1314624890field.jpg" sby="SamQuigley1 - siteadmin - 29/08/11 : 14:34:53" />
+		<article id="14" date="2011-08-29" title="Hot air balloons hit by high winds" description="&amp;lt;div class=&amp;quot;article-intro&amp;quot; id=&amp;quot;article-intro-div&amp;quot;&amp;gt;
+	High wind speeds have hampered events at the hot air balloon festival in Lisburn, but organisers remain hopeful the weather will clear in time for a &amp;#39;mass ascent&amp;#39; on the final night.&amp;lt;!--Related Videos--&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div id=&amp;quot;article-content&amp;quot;&amp;gt;
+	&amp;lt;p&amp;gt;
+		Gales of up to 30 knots battered Moira Demense over the weekend, keeping most balloons grounded during the three day event - which is the first of its kind in Northern Ireland.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		Some were cleared for takeoff on Saturday, including one flight for members of the public. Twelve people packed into the basket to go up with a commercial pilot.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		On Sunday evening a fire and light show was put on for some 1,500 spectators, with the colourful carriers lit up in synch with live music.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		The event is scheduled to close with a spectacular &amp;#39;mass ascent&amp;#39; on Monday evening.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		With weather conditions expected to improve, organiser Andrew Kennedy said his hopes that the big finish will go ahead haven&amp;#39;t been deflated.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		&amp;quot;The forecast is for around six knots from late this afternoon,&amp;quot; Mr Kennedy told UTV.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		&amp;quot;If that happens, all 27 balloons are planning to take off at 7pm. If it can&amp;#39;t, we&amp;#39;re planning to have another fire and light show for visitors.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		&amp;quot;We&amp;#39;ve been very unlucky. Normally you wouldn&amp;#39;t get three days in a row but safety comes first.&amp;quot;&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		Around 9,000 people have attended the vibrant festival over the three days.&amp;lt;/p&amp;gt;
+	&amp;lt;p&amp;gt;
+		It has been welcomed as a major boost for tourism in Co Down and the local economy.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+" status="1" image="NEWSIMAGE-1314625007bloon.jpg" sby="SamQuigley1 - siteadmin - 29/08/11 : 14:36:48" />
+		<article id="15" date="2011-08-29" title="Giant killer scorpion fish spotted off Irish coast" description="&amp;lt;p&amp;gt;
+	A deadly scorpion fish has been spotted off Ireland&amp;#39;s east coast.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Divers Brendan Moran (50) and Dave Kerr were swimming in shallow water at Greystones when they caught sight of a giant venomous scorpion fish.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Mr Moran, who has over 800 dives behind him, said the creature&amp;#39;s size surprised him.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	&amp;quot;It&amp;#39;s the biggest scorpion fish I have come across in Irish waters,&amp;quot; he told Dublin&amp;#39;s Evening Herald.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Normally, they can be held in the palm of a hand but this one was over a foot long, said Mr Moran.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	A sting from the dorsal fin, or its side fins, could be fatal to a small child or elderly person, he added.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	&amp;quot;Anyone I met I told about it. I alerted the mayor of Greystones Ciaran Hayden as well,&amp;quot; the IT consultant from Bray said.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	He warned that the pain from a sting is &amp;quot;excruciating&amp;quot; and can be &amp;quot;severely incapacitating&amp;quot; for swimmers.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	&amp;quot;I have been diving for 20 years and I have never seen that size (in Irish waters). Only in the Red Sea have I seen them that size,&amp;quot; Mr Moran said.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	He has &amp;quot;no idea&amp;quot; why such a large one was off the Co Wicklow coast.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	It was hiding in the undergrowth before he saw it and started filming.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Mr Moran, who lives in Loreto Grange and is a member of the Wicklow Aquanauts club, said swimmers should never touch it.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	He has dived all over the world and always carries a waterproof camera when he goes out.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	During the summer, he goes scuba diving several times a week and last year managed to capture footage of a 10-foot long red jellyfish.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	A sting from a scorpion fish can be very serious. In 2005, an Englishman nearly died when he was stung by a scorpion fish while on holiday on the Greek island of Rhodes.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	A rare allergic reaction to the venom meant that he was just minutes from death.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	However, he managed to get medical attention in time.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	If you are stung, the advice is to submerge the wound under very hot water for as long as possible and seek medical assistance.&amp;lt;/p&amp;gt;
+" status="1" image="" sby="SamQuigley1 - siteadmin - 29/08/11 : 14:41:20" />
+		<article id="16" date="2011-09-01" title="Strict new moves to tackle NI benefit cheats" description="&amp;lt;p class=&amp;quot;introduction&amp;quot; id=&amp;quot;story_continues_1&amp;quot;&amp;gt;
+	A strict &amp;quot;one strike and you&amp;#39;re out&amp;quot; policy on benefit fraudsters is being introduced later.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	The new penalty will cut a claimant&amp;#39;s benefit, or stop it entirely, for four weeks following a first fraud offence.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	It could affect up to 1,000 people a year. Under the present system, 13 claimants had benefits stopped in 2010.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	The one-strike penalty is in addition to a fraud conviction, administrative penalty or formal caution, and the recovery of money fraudulently claimed.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Social Security Minister Nelson McCausland said: &amp;quot;Those who deliberately commit benefit fraud are dipping their fingers into the pockets of Northern Ireland&amp;#39;s taxpayers.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	&amp;quot;We don&amp;#39;t want to catch people committing benefit fraud.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	&amp;quot;We want to stop them committing benefit fraud in the first place. This new measure will help us do that.&amp;quot;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Kevin Higgins of Advice NI said it did not condone benefit fraud, but that the current system for claiming benefits was &amp;quot;difficult to navigate&amp;quot; and it was concerned some genuine claimants could be penalised.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	&amp;quot;The majority of people who use advice centres do so because they find the system too complex, the form-filling too complex and they often find the letters they receive from the Social Security Agency are not the most clear and they have to bring them to advice centres for an explanation,&amp;quot; he added.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Mr McCausland said the new policy was not directed at the &amp;quot;person who makes the honest mistake&amp;quot;.&amp;lt;/p&amp;gt;
+" status="1" image="" sby="SamQuigley1 - siteadmin - 01/09/11 : 16:40:38" />
+		<article id="17" date="2011-09-01" title="Changes made to Belfast city centre bus routes" description="&amp;lt;p class=&amp;quot;introduction&amp;quot; id=&amp;quot;story_continues_1&amp;quot;&amp;gt;
+	Alterations to Metro bus routes and the relocation of bus stops in Belfast city centre have been put into operation on Thursday.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	The move is part of a Department for Regional Development initiative aimed at giving greater priority to public transport, cyclists and pedestrians.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	A Metro spokesperson said the changes would see fewer buses on some routes and the combining of some services.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	He said, however, that some new routes would also be introduced.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Full details of the route changes can found in the Translink Metro &amp;lt;a href=&amp;quot;http://www.translink.co.uk/Metro/Metro-Service-and-Stop-Changes/&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;lt;font color=&amp;quot;#1f4f82&amp;quot;&amp;gt;timetable&amp;lt;/font&amp;gt;&amp;lt;/strong&amp;gt;&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Metro Services said information teams would be on hand in the city centre to help passengers with the changes.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Spokesperson Billy Gilpin said new timetables were being posted to Belfast households.&amp;lt;/p&amp;gt;
+&amp;lt;p id=&amp;quot;story_continues_2&amp;quot;&amp;gt;
+	&amp;quot;I would encourage passengers to check their service details before travelling so they can take this into consideration when planning their journey,&amp;quot; he said.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Scott Kennerley of the Consumer Council said: &amp;quot;Whilst we accept that the changes to some Metro bus stops in Belfast will be required as a result of the work, and we welcome the enhancement of some services, we would be concerned if the re-organisation of traffic routes in Belfast city centre has led to a separate decision to reduce frequency of service on a small number of routes.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	&amp;quot;We have raised our concerns with Translink and we would also encourage passengers to raise any issues they might have with Translink.&amp;quot;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	The changes were made as part of the Department for Regional Development&amp;#39;s Belfast on the Move Transport master plan and the Streets Ahead Enabling Measures which aim to give higher priority to public transport, pedestrians and cyclists in Belfast city centre.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Additional information on bus route changes and the relocation of city centre bus stops can obtained on the Translink website www.translink.co.uk or by calling the contact centre on 028 9066 6630&amp;lt;/p&amp;gt;
+" status="1" image="" sby="SamQuigley1 - siteadmin - 01/09/11 : 16:41:57" />
+		<article id="18" date="2011-09-01" title="County Antrim man arrested over Ibiza drugs haul" description="&amp;lt;p class=&amp;quot;introduction&amp;quot;&amp;gt;
+	One man believed to be from Northern Ireland and two from the Irish Republic were among 13 people arrested as part of a major drugs haul in Ibiza.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	A total of 4,000 grams of cocaine was seized along with 3,600 ecstasy pills and 5,000 grams of crystal meth after eight properties were searched.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Sixty-nine thousand euros was also recovered along with cannabis and anabolic steroids.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	It is understood the Northern Ireland man is 30 and from County Antrim.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	The latest drugs haul is part of a wider operation by the Guardia Civil which has seen 73 people arrested and 30 properties searched.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	The Serious Organised Crime Agency (SOCA) said the majority of the pills which have been seized are known as Pink Rock Star and are similar to those believed to have poisoned eight people in Ibiza in July.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	It said those detained are &amp;quot;members of one of the most active gangs on Ibiza which is the main supplier of cocaine and other designer drugs&amp;quot;.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	SOCA said enquiries were carried out on the basis of intelligence obtained by the Guardia Civil after other gangs involved in drug trafficking on the island were dismantled.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	It said the &amp;quot;majority of these gangs were British and took advantage of the influx of young people during the summer&amp;quot;.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	It added that enquiries found that the gang, which is now dismantled, only travelled to Ibiza in summer to &amp;quot;meet the large demand for drugs on the island during this period&amp;quot;.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Nine of the other men arrested were British nationals. One of the men was a Polish national.&amp;lt;/p&amp;gt;
+" status="1" image="" sby="SamQuigley1 - siteadmin - 01/09/11 : 16:43:21" />
+		<article id="19" date="2011-09-01" title="Northern Ireland car insurance rip-off: Fightback begins" description="&amp;lt;p&amp;gt;
+	Car insurance quotes for drivers in Northern Ireland are on average double that quoted for the same profile living in the south of England, the Belfast Telegraph has found.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	A straw poll by this newspaper has supported a report by the Consumer Council that drivers in Northern Ireland are paying much higher premiums than their counterparts elsewhere in the UK.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	The cheapest quote for a 40-year-old woman in Belfast was &amp;pound;1,400, but the insurance premium was on average half that amount when the exact same profile was given a postcode in Buckinghamshire.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Similarly, a 60-year-old man, from Belfast, was quoted on average &amp;pound;800, but his car insurance quote was nearly halved when given a Buckinghamshire postcode. But the survey found that all young male drivers are quoted exceptionally high insurance premiums across the UK.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	The Consumer Council has launched a campaign to reduce car insurance in Northern Ireland after it revealed that drivers in the province were on average quoted &amp;pound;282 more, some 84% higher than those in other parts of the UK.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	The campaign got off to a flying start with more than 200 signatures gathered within hours of an online petition going live yesterday.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	One of the main reasons for high premiums cited by the Consumer Council is the size of the insurance market in Northern Ireland - the smaller the market, the less competitive the rates.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	However, insurance broker Sam Geddis from Adelaide Insurance in Belfast argued that premiums have fallen dramatically since 2002 when more insurance companies began to trade in Northern Ireland.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	&amp;quot;Competition drives prices down,&amp;quot; he said.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	&amp;quot;When I look at our consumer base there are areas in the UK where insurance is more expensive than Northern Ireland, predominantly in major cities such as London, Manchester and Glasgow, but yes, as a geographical area Northern Ireland has higher premiums.&amp;quot;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Despite more insurance companies trading in Northern Ireland in recent years, consumers also still have less choice, with three times fewer companies offering car insurance here.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Segmentation of the market is also a factor for Northern Ireland with many firms not operating directly but only through a broker.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	&amp;quot;In addition, not all companies trading here will provide consumers with a quote,&amp;quot; said Joleen Cunningham, senior consumer affairs officer at the Consumer Council.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	&amp;quot;We have been told that only two or three local insurance companies will provide car insurance to 17 to 22-year-olds.&amp;quot;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	The insurance industry argues that the main reason for higher premiums here is the higher cost of personal injury claims.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	Just last month, Paul Hatty, Northern Ireland chairman of the British Insurance Brokers&amp;#39; Association (BIBA), said there had been a &amp;quot;massive increase&amp;quot; in the number of personal injury claims made on the insurance industry.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	He said: &amp;quot;What we&amp;#39;re getting now is some claims management companies using aggressive marketing techniques to try and encourage people to make a claim.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	&amp;quot;The financial benefits to companies from assisting in a personal injury case have tempted some companies into encouraging insurance fraud.&amp;quot;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	The cost of these fraudulent claims is more than &amp;pound;900m a year - which adds, on average, &amp;pound;40 to every UK motorist&amp;#39;s premium.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	The Consumer Council has questioned the fraud figures.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+	&amp;quot;We have asked the insurance industry to provide us with figures to show the level of fraud but they can&amp;#39;t and nor can the Justice Department,&amp;quot; said Joleen&amp;lt;/p&amp;gt;
+" status="1" image="" sby="SamQuigley1 - siteadmin - 01/09/11 : 16:45:50" />
+		<article id="20" date="2011-10-08" title="test news" description="&amp;lt;p&amp;gt;
+	my test news&amp;lt;/p&amp;gt;
+" status="1" image="" sby="amax - siteadmin - 08/10/11 : 18:23:06" />
+		<article id="21" date="2011-10-10" title="news test 3 21" description="&amp;lt;p&amp;gt;
+	test news 2&amp;lt;/p&amp;gt;
+" status="1" image="NEWSIMAGE-1318094561SMALLKoala.jpg" sby="amax - siteadmin - 08/10/11 : 18:23:58" />
+		<article id="22" date="2011-10-07" title="test last last" description="&amp;lt;p&amp;gt;
+	last&amp;lt;/p&amp;gt;
+" status="1" image="" sby="amax - siteadmin - 08/10/11 : 18:25:45" />
+		<article id="23" date="2011-10-27" title="Test event vincent" description="&amp;lt;p&amp;gt;
+	Test event vincent&amp;lt;/p&amp;gt;
+" status="1" image="NEWSIMAGE-1319708260SMALLKoala.jpg" sby="amax - siteadmin - 27/10/11 : 10:37:40" />
+	</news>
+	<package>
+		<pack packageId="1" title="Standard listing" description="Standard listing" price="39.00" />
+		<pack packageId="2" title="Premium Listing" description="Premium Listing" price="99.00" />
+		<pack packageId="3" title="Ultimate Package" description="Ultimate Package" price="199.00" />
+	</package>
+	<pushnotifications>
+		<push id="1" date="2011-08-12" alerttitle="ROOM2RACE SPECIAL  - 15% Discount When Showing iGuide Belfast. " pushcontent="&amp;lt;p&amp;gt;
+	ROOM2RACE - 15% Discount When Sowing the iGuide Belfast App&amp;lt;/p&amp;gt;
+" status="1" sby="amax - siteadmin" />
+		<push id="2" date="2011-09-01" alerttitle="Beat The Clock today at Opera Pizzeria - Dublin Road " pushcontent="&amp;lt;p&amp;gt;
+	Buy any pizza for example for&amp;nbsp;&amp;pound;5.50 at 5.30pm and so on. Bring Your Own&amp;lt;/p&amp;gt;
+" status="1" sby="SamQuigley1 - siteadmin" />
+	</pushnotifications>
+	<reviews>
+		<review id="1" locationid="12" reviewdate="2012-01-05 22:16:53" reviewtitle="Great place" reviewcontent="Will visit again" starrating="5" revieweremail="aidan@iguidema.com" reviewername="Joe Blogs" reviewstatus="1" />
+		<review id="13" locationid="139" reviewdate="2012-01-05 22:16:12" reviewtitle="Excellent spot" reviewcontent="Great food" starrating="5" revieweremail="admin@iguidema.com" reviewername="iGuide" reviewstatus="1" />
+	</reviews>
+	<sequence>
+		<sequence_num>67</sequence_num>
+	</sequence>
+	<showcasefiles>
+		<file file_id="1" file_location_id="143" file_description="Aidan one" file_name="SHOWCASEIMAGE-1317913723TESTAIDAN1.jpg" file_extension="jpg" file_cover="COVER-SHOWCASEIMAGE-1317913723TESTAIDAN1.jpg" file_live="1" />
+		<file file_id="2" file_location_id="143" file_description="Aidans test audio" file_name="SHOWCASEAUDIO-1317917015Womanizer.mp3" file_extension="mp3" file_cover="audiocoverflow.jpg" file_live="1" />
+		<file file_id="3" file_location_id="143" file_description="testing" file_name="SHOWCASEVIDEO-1317918821videofilename.mp4" file_extension="mp4" file_cover="videocoverflow.jpg" file_live="1" />
+		<file file_id="4" file_location_id="143" file_description="kila" file_name="SHOWCASEIMAGE-1318095762SMALLKoala.jpg" file_extension="jpg" file_cover="COVER-SHOWCASEIMAGE-1318095762SMALLKoala.jpg" file_live="0" />
+		<file file_id="5" file_location_id="143" file_description="derick seen this" file_name="SHOWCASEIMAGE-1318253148Jellyfish.jpg" file_extension="jpg" file_cover="COVER-SHOWCASEIMAGE-1318253148Jellyfish.jpg" file_live="1" />
+		<file file_id="6" file_location_id="739" file_description="Landing Page" file_name="SHOWCASEIMAGE-13262107401c-LANDINGPAGE-NAV-1.jpg" file_extension="jpg" file_cover="COVER-SHOWCASEIMAGE-13262107401c-LANDINGPAGE-NAV-1.jpg" file_live="1" />
+		<file file_id="7" file_location_id="739" file_description="" file_name="SHOWCASEAUDIO-1326376772derick.mp3" file_extension="mp3" file_cover="audiocoverflow.jpg" file_live="1" />
+	</showcasefiles>
+	<slideradvertising>
+		<advert id="1" dateStart="2011-10-17" dateEnd="2012-10-24" title="Dublin City Business Improvement" description="&amp;lt;br /&amp;gt;
+" panelimage="FRONTSLIDERP-1318856015bid1.jpg" locationidlink="2887" status="1" />
+		<advert id="2" dateStart="2011-10-17" dateEnd="2012-10-17" title="Great events in the city" description="&amp;lt;br /&amp;gt;
+" panelimage="FRONTSLIDERP-1318856046bid2.jpg" locationidlink="2887" status="1" />
+		<advert id="3" dateStart="2011-10-17" dateEnd="2012-10-17" title="Fun for all ages" description="&amp;lt;br /&amp;gt;
+" panelimage="FRONTSLIDERP-1318856077bid3.jpg" locationidlink="2887" status="1" />
+	</slideradvertising>
+	<toptens/>
+</localbuild>
