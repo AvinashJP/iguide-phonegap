@@ -15,7 +15,7 @@
 	</author>
 
 	<icon src="resources/images/icon.png" gap:role="default" />
-	<gap:splash src="resources/images/HTML5-splash.png">
+	<gap:splash src="resources/images/HTML5-splash.png" />
 
 	<gap:platforms>
 		<gap:platform name="blackberry" minVersion="6" />
